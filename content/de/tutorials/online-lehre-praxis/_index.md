@@ -1,14 +1,15 @@
 ---
 # Tutorial title, summary, and position.
-linktitle: "Online-Lehre-Praxis.de"
+linktitle: Online-Lehre-Praxis.de
 summary: Praxisnahe Tutorien zum Einstieg in die Onlinelehre.
+
 weight: 1
 
 # Page metadata.
-title: "Online-Lehre-Praxis"
+title: Online-Lehre-Praxis
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
-draft: true  # Is this a draft? true/false
+draft: false  # Is this a draft? true/false
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types
 reading_time: true
 toc: true  # Show table of contents? true/false
