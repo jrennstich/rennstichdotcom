@@ -8,7 +8,7 @@ weight: 1
 # Page metadata.
 title: Online-Lehre-Praxis
 date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
+lastmod: "2020-10-31T22:55:00Z"
 draft: false  # Is this a draft? true/false
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types
 reading_time: true
