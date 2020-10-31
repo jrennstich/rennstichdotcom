@@ -5,16 +5,56 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[de]
+  languageCode = "de-de"
+  contentDir = "content/de"
+  title = "digprof"
+  [de.params]
+    description = "digprof"
+    office_hours = "Vorlesungsfreie Zeit. Bitte kontaktieren Sie mich für einen Termin."
+    directions = "Eingang über: Im Druseltal 8, Büro im 2. Stock."
+
+
+  [[de.menu.main]]
+    name = "Home"
+    url = "#about"
+    weight = 10
+  [[de.menu.main]]
+    name = "Publikationen"
+    url = "#publications"
+    weight = 20
+  [[de.menu.main]]
+    name = "Blogposts"
+    url = "#posts"
+    weight = 30
+  [[de.menu.main]]
+    name = "Talks"
+    url = "#talks"
+    weight = 35
+  [[de.menu.main]]
+    name = "Projekte"
+    url = "#projects"
+    weight = 40
+  [[de.menu.main]]
+    name = "Tutorien"
+    url = "tutorials/"
+    weight = 50
+  [[de.menu.main]]
+    name = "Lehre"
+    url = "courses/"
+    weight = 60
+  [[de.menu.main]]
+    name = "Kontakt"
+    url = "#contact"
+    weight = 70
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+
+#  [[de.menu.main]]
+#    name = "CV"
+#    url = "files/cv_de.pdf"
+#    weight = 70
