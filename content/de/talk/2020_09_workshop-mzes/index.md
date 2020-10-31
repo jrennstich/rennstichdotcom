@@ -25,7 +25,7 @@ links:
   url: https://twitter.com/digprof
 location: MZES - Mannheimer Zentrum für europäische Sozialforschung
 math: true
-projects: []
+projects: [Open Data]
 publishDate: "2020-03-21T00:00:00Z"
 slides:
 summary:
