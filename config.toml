@@ -20,7 +20,7 @@ copyright = "&copy; 2020 by Joachim K. Rennstich"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = ["hugo-academic-master", "matomo"]
+theme = []
 
 # Get last modified date for content from Git?
 enableGitInfo = false
