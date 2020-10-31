@@ -27,7 +27,7 @@
     url = "#publications"
     weight = 20
   [[de.menu.main]]
-    name = "Posts"
+    name = "Blog"
     url = "#posts"
     weight = 30
   [[de.menu.main]]
