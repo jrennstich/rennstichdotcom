@@ -1,7 +1,7 @@
 ---
 title: Special Award, Hessischer Hochschulpreis für Exzellenz in der Lehre
 subtitle: Award for Hessian Universities for Excellence in Teaching for the project E-Portfolios as an Assessment Tool for Online and Face-to-Face Courses
-summary: Presentation of Special Award for Hessian Universities for Excellence in Teaching), for the project E-Portfolios as an Assessment Tool for Online and Face-to-Face Courses.
+summary: Presentation of Special Award for Hessian Universities for Excellence in Teaching, for the project E-Portfolios as an Assessment Tool for Online and Face-to-Face Courses.
 authors:
 - admin
 featured: false

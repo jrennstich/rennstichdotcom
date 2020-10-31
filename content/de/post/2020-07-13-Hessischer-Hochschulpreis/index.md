@@ -1,7 +1,7 @@
 ---
 title: Hessischer Hochschulpreis für Exzellenz in der Lehre
 subtitle: Besondere Auszeichnung (Urkunde) für das Projekt "E-Portfolio Leistungsnachweis als Teil von Online- und Face-to-Face-Lehrangeboten"
-summary: Übergabe der besondereb Auszeichnung (Urkunde) für das Projekt "E-Portfolio Leistungsnachweis als Teil von Online- und Face-to-Face-Lehrangeboten" im Rahmen des Hessischen Hochschulpreises für Exzellenz in der Lehre
+summary: Übergabe der besonderen Auszeichnung (Urkunde) für das Projekt "E-Portfolio Leistungsnachweis als Teil von Online- und Face-to-Face-Lehrangeboten" im Rahmen des Hessischen Hochschulpreises für Exzellenz in der Lehre
 authors:
 - admin
 featured: false

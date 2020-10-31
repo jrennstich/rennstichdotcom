@@ -22,7 +22,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -101,7 +101,7 @@ directions = "The office is located at the entrance: Im Druseltal 8 (2nd Floor).
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Summer break. Please contact me for an appointment."]
+office_hours = ["Mo, 12-1 PM. Please contact me for an appointment."]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url =
