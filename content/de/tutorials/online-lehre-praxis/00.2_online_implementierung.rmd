@@ -1,0 +1,77 @@
+---
+title: Online Implementierung
+linktitle: Online Implementierung
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: true
+lang: de-DE
+#bibliography: references.bib
+bibliography:  /Users/jrennstich/Dropbox/websites/rennstich_com_v2/references.bib
+csl: apa7.csl
+menu:
+  online-lehre-praxis:
+    parent: Kurze Einführung in die Onlinelehre
+    weight: 2
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 2
+---
+
+## Wie "macht" man Onlinelehre?
+
+Diskussion
+
+
+## Welche Parameter muss ich bedenken?
+
+Ganz entscheidend für eine gelungene Implementierung der Onlinelehre ist ein gutes Konzept, das didaktische Ziele, die "Rahmenbedingungen" wie Kursform, Anzahl der Kursteilnehmenden, bestehende Kompetenzen von Lehrenden und Studierenden, Modusmöglichkeiten, zeitliche Streckung und einiges mehr in Einklang bringen kann. Die technische Umsetzung, bzw. Möglichkeiten der Umsetzung sind wirklich nur sekundär wichtig; die allermeisten Formen der Lehr-Lernausgestaltung lassen sich mediatisiert gestalten, allerdings nicht immer einfach 1:1 mit den bekannten Interaktionsformen in einem physischen Kontext.
+
+Tabelle \@ref(tab:DesignOptions) listet die verschiedenen Lehrgestaltungsparameter die bei der Entwicklung eines Online-basierten Lehrangebots berücksichtigt, bzw. aus didaktischer Sicht ausgewählt werden müssen [vgl. auch @wannemacher-digitalelernszenarien-2016].
+
+Table: (\#tab:DesignOptions) Kursentwicklungsparameter für die Onlinelehre [Zusammenfassung basiert auf @means-learning-2014, Table 1.1]
+
+| Lehrgestaltungsparameter | Optionen |
+|-----------|----------|
+| **Modus** | Vollständig Online |
+|           | Blended Learning mit > 50 % Onlineanteil |
+|           | Blended Learning mit 25--50 % Onlineanteil |
+|           | Online-gestützte Synchronlehre (F2F)[^F2F] |
+| **Taktung** | Eigenverantwortlich, mit offenem Beginn und Ende |
+|             | Veranstaltungsbasiert (also bspw. wöchentlich, oder in Blöcken) |
+|             | Veranstaltungsbasiert, aber mit einigen eigenverantwortlichen Abschnitten |
+| **Studierenden-Dozierenden-Verhältnis** | < 35 zu 1 |
+|                                         | 36--99 zu 1 |
+|                                         | 100--999 zu 1 |
+|                                         | > 1000 zu 1 |
+| **Pädgagogisch-didaktischer Ansatz** | Expositorisch |
+|                                      | Eigentständig konstruktivistisch (exploratory) |
+|                                      | Kollaborativ konstruktivistisch (collaborative) |
+|                                      | Praktisch-einübend und problemorientiert (practice) |
+| **Rolle von Lehrenden** | Aktive Online Lehrpräsenz |
+|                         | Geringe Online Lehrpräsenz |
+|                         | Keine Präsenz |
+| **Rolle von Studierenden** | Audio/visuelle Wahrnehumung oder lesend |
+|                            | Problem-orientertes oder Antwort-gebendes Arbeiten |
+|                            | Exploratives Arbeiten in Simulationen oder mit anderen Ressourcen |
+|                            | Kollaboratives Arbeiten mit Peers |
+| **Rolle von Online-Überprüfungen** | Evaluation des Kentnisstands für nächsten Lernschritt |
+|                                    | Information für Lernsystem, wie Lernprozess unterstützt werden kann |
+|                                    | Information für Lehrende und Studierende über den erreichten Lernerfolg |
+|                                    | Information für Notenbewertung |
+|                                    | Identifikation von Studierenden mit erhöhtem Unterstützungsbedarf |
+| **Online Synchronität** | Asynchron (ausschliesslich) |
+|                         | Synchron (ausschliesslich)  |
+|                         | Eine Mischung (Blended)     |
+| **Feedback-Quelle** | Automatisiert |
+|                     | Lehrende/r |
+|                     | Peers |
+
+
+
+[^F2F]: [F2F](https://www.duden.de/suchen/dudenonline/Face-to-Face-Kommunikation) steht für das englische "Face to Face", also eine zeitgleiche, physische Interaktion, entsprechend der "klassischen" Lehrsituation einer Vorlesung, Seminars oder Übung. Mittlerweile gelten aber auch medialisierte, eine physische Präsenz weitgehend simulierende Interaktion bei manchen Autor_innen als "F2F" Form.
+
+
+
+
+# Literaturverzeichnis

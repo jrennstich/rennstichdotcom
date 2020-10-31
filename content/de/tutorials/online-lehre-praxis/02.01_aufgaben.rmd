@@ -1,0 +1,35 @@
+---
+title: Aufgaben
+linktitle: Aufgaben
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: true
+menu:
+  online-lehre-praxis:
+    parent: Aktivierung
+    weight: 3
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 6
+---
+
+## Einführung in das Konzept
+
+Intro-Video (Person)
+
+## Steckbrief
+
+Infographik
+
+## Erklärvideos
+
+{{< youtube ouzL4eRu604 >}}
+
+## Methode(n)
+
+Kurze Erklärung zur Verwendung mit Theorie/Empirie-Link.
+
+## Beispiele
+
+Exemplarische Beispiele

@@ -1,0 +1,38 @@
+---
+title: Flipped Classroom
+linktitle: Flipped Classroom
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: true
+menu:
+  online-lehre-praxis:
+    parent: Lehrformate
+    weight: 5
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 9
+---
+
+Onlinelehre kann aber auch in Verbindung mit Präsenzlehre wichtige didaktische Impulse in der Gestaltung von Lehrveranstaltungen setzen. Das "Flipped Classroom" Konzept ist mit die konsequenteste Implementierung von Blended Learning.
+
+## Was ist "Flipped Classroom"?
+
+Kurzeinführung mit Verweisen.
+
+
+## Einsatzmöglichkeiten
+
+Beschreibung der Einsatzmöglichkeiten
+
+### Beispiel 1
+
+Beschreibung des Beispiels
+
+### Beispiel 1
+
+Beschreibung des Beispiels
+
+## Weitere Hinweise
+
+Verweis auf weitere Links, Literatur etc.

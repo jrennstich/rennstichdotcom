@@ -1,0 +1,36 @@
+---
+title: Hinweise zu Technologie (Hard/Software)
+linktitle: Hinweise zur Technologie (Hard/Software)
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: true
+menu:
+  online-lehre-praxis:
+    parent: 
+    weight: 5
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 8
+---
+
+## A first example
+
+Some text. 
+
+
+### Some secondary headline
+
+Some more text
+
+### Another secondary headline
+
+Some more text
+
+## A second example
+
+### Some secondary headline
+
+Some more text
+
+### Another secondary headline

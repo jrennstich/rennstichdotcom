@@ -1,0 +1,19 @@
+---
+title: Das geht gut mit Onlinelehre
+linktitle: Das geht gut mit Onlinelehre
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: true
+menu:
+  online-lehre-praxis:
+    parent: Kurze Einführung in die Onlinelehre
+    weight: 3
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 3
+---
+
+## Diese Formen und Methoden gehen gut mit Onlinelehre
+
+Diskussion

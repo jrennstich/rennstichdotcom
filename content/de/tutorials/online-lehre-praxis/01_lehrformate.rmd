@@ -1,0 +1,26 @@
+---
+title: Lehrformate
+linktitle: Lehrformate
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: true
+menu:
+  online-lehre-praxis:
+    parent: 
+    weight: 2
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 9
+---
+
+In diesem Abschnitt sollen zunächst reine Online-Formen der Lehre besprochen werden. Analog zu den primären "klassischen" Formen der Präsenzlehre im deutschen Hochschulbetrieb sollen hier die Möglichkeiten der Implementierung von
+
+- Online-Vorlesungen,
+- Online-Seminaren und
+- Online-Übungen
+
+dargestellt werden. Sie finden in diesem Abschnitt aber auch eine Darstellung der Verbindung von Präsenz- und Onlinelehre, häufig auch als "Blended Learning" bezeichnet [^BlendedLearning]
+
+
+[^BlendedLearning]: Hinweis auf die verschiedenen Bedeutungen von Blended Learning mit Literaturhinweisen.

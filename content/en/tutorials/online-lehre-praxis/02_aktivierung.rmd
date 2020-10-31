@@ -1,0 +1,27 @@
+---
+title: Aktivierungmethoden
+linktitle: Aktivierung
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: true
+
+menu:
+  online-lehre-praxis:
+    parent: 
+    weight: 3
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 6
+---
+
+Unter "Aktivierung" in der Onlinelehre versteht man die verschiedenen Methoden und Techniken die es ermöglichen, Studierende aktiv in den Lernprozess über verschiedene Online-Angebote einzubinden. Mit diesen Methoden sollen also Studierende kongitiv, emotional und sozial zur Aktivität und Partizipation ermuntert werden und somit ein tieferes Verständnis von Inhalten, sowie ein höheres Lernniveau ermöglicht werden (vgl. Mayrberger, 2017; Winteler, Geyer & Lehrberger, 2011).
+
+In diesem Abschnitt finden Sie verschiedene Methoden zur Aktivierung in der Onlinelehre. Jede Methode wird im gleichen Raster dargestellt: Am Anfang finden Sie eine Video-Kurzeinführung, sowie einen kurzen methodischen "Steckbrief". Im Anschluss daran gibt es dann verschiedene Erklärvideos, wie diese Methode konkret in Moodle (oder einer anderen LMS) implementiert werden kann. Diesen Videos folgt eine ausführlichere Beschreibung der Methode und Beispiele.
+
+
+## Literaturverzeichnis
+
+Mayrberger, K. (2017). Partizipatives Lernen in der Online-Lehre – Anspruch, Konzept und Ausblick. In H. R. Griesehop & E. Bauer (Hrsg.), _Lehren und Lernen online: Lehr- und Lernerfahrungen im Kontext akademischer Online-Lehre_ (S. 109–129). Springer VS. https://doi.org/10.1007/978-3-658-15797-5_6
+
+Winteler, A., Geyer, C., & Lehrberger, G. (2011). _Professionell lehren und lernen: Ein Praxisbuch_ (4. Aufl.). WBG.

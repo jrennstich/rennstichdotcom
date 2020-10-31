@@ -1,0 +1,17 @@
+---
+title: Das geht schwierig mit Onlinelehre
+linktitle: Das geht schwierig mit Onlinelehre
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: true
+menu:
+  online-lehre-praxis:
+    parent: Kurze Einführung in die Onlinelehre
+    weight: 5
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 5
+---
+
+Einige Einsatzgebiete sind jedoch in der Onlinelehre wirklich schwer umzusetzen.

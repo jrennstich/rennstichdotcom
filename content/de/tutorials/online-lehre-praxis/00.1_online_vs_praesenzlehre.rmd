@@ -1,0 +1,94 @@
+---
+title: Onlinelehre versus Präsenzlehre
+linktitle: Online- vs Präsenzlehre
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: true
+lang: de-DE
+#bibliography: references.bib
+bibliography:  /Users/jrennstich/Dropbox/websites/rennstich_com_v2/references.bib
+csl: apa7.csl
+menu:
+  online-lehre-praxis:
+    parent: Kurze Einführung in die Onlinelehre
+    weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
+---
+
+
+## Unterschiede von Präsenz- und Onlinelehre
+
+<!-- Diskussion --> Gute Lehre will immer gut vorbereitet sein. Daher unterscheiden sich Online- und Präsenzlehre in dieser Hinsicht eigentlich nicht wirklich. Einige Unterschiede liegen jedoch recht offensichtlich auf der Hand. Da ist zum einen die Differenz in der **Form von physischer und nicht-physischer "Präsenz"** und der daraus erfolgenden Notwendigkeit der unterschiedlichen Gestaltung des Lehr- und Lernraums. Damit verbunden stellt sich die Frage der **Zeitlichkeit**, allgemein mit den Begriffen der "Synchronität" und "Asynchronität" von Lehrvermittlung verbunden. Hieraus ergeben sich vielleicht weniger klar erkennbar ganz wesentliche Fragen der mit einem Lehrangebot verbundenen **Didaktik**, in der sich das **grundsätzliche Lehr- und Lernverständnis** der oder des Dozierenden maninfestiert. Ohne eine Klärung dieses Verständnisses ist eine gute Implementierung von Onlinelehre unmöglich, ob nun in rein- oder in gemischten Formen (s. die Abschnitte "Blended Learning"). 
+
+<!-- Diskussion -->
+
+Hier ist nicht der Ort für ausführliche generelle Diskussionen über didaktische Konstrukte und Ziele im akademischen Kontext, ob nun für die Online- oder Präsenzlehre. <!-- add books and online opportunities for this discussion --> Die Auswahl des für das Lehrangebot passenden didaktischen Konzepts soll hier getrost den Dozierenden überlassen werden. Didaktische Überlegungen sind jedoch ein zentraler Bestandteil in der Entwicklung und Implementierung von Onlinelehre und müssen **vor** der Entwicklung des Lehrplans und technischen Umsetzung des Lehrangebots dringend geklärt sein.[^Syllabus] 
+
+[^Syllabus]: Das gilt im Grunde natürlich für alle Lehrangebote im Hochschulkontext und ist daher eine ziemlich triviale Feststellung. Die ausführliche Diskussion um Syllabi [s. beispielsweise in @schauble-onlineprufungen-2017] hingegen lässt die Vermutung aufkommen, dass eine klare Kommunikation der didaktischen Ziele, den Kursinhalten und formalen Ansprüchen an die Studierenden im deutschen Hochschulalltag nicht immer als selbstverständlich vorausgesetzt werden können.
+
+Was Nebel, selbst ein ehemaliger Onlinestudent, im Zusammenhang mit der Gestaltung von berufsbgleitenden Onlinestudiengängen feststellt, gilt auch generell für eine gelingende Gestaltung von Onlinelehre:
+
+> Wenn Studierende den Eindruck haben, dass das Lehrkonzept lediglich in die Online-Lehre eingepasst wurde, aber eigentlich aus einem Präsenzstudiengang stammt, lässt sich die Motivation nur mit Anstrengung für die Dauer des Moduls aufrechterhalten. In der Online-Lehre gilt es, die besondere Situation der Studierenden zu beachten. Dies gilt sowohl für die Taktung von Rückmeldemöglichkeiten als auch für den Aufbau des Moduls selbst. [@nebel-moglichkeiten-2017, 63]
+
+Er konkretisiert das dann wie folgt:
+
+> Außerdem macht es für Studierende einen Unterschied, ob sie trotz der Virtualität eines Online-Moduls einen Eindruck davon bekommen, mit wem sie es aufseiten der Lehrenden zu tun haben. Ein kurzes prägnantes Video, in dem sich Lehrende vorstellen, vermittelt ein lebendigeres Bild der Person als jede akademische Vita. Ebenso sind Rückmeldungen zu einzelnen Arbeitsschritten oder zu der abschließenden Prüfungsleistung umso wirkungsvoller je persönlicher sie sind. [@nebel-moglichkeiten-2017, 64]
+
+Es geht also bei Onlinelehre genauso auf der einen Seite um eine gute **Struktur des Lehrangebots**, gleichzeitig aber auch um eine **Emotionalität in der Lehrvermittlung**, die in der Präsenzlehre oft "automatisch" oder auch unbewusst in der physischen Interaktion mit Studierenden vermittelt wird, in der Onlinelehre aber explizit und bewusst gestaltet werden muss. Mit anderen Worten: es bedarf eines klar überlegten und den Studierenden gegebüber deutlich kommunizierten didaktischen Konzepts.
+
+
+### Didaktische Ziele in Präsenz- und Onlinelehre
+
+Aus Sicht der akademischen Praxis lassen sich grob zwei unterschiedliche didaktische Ansätze in der Gestaltung von Lehr-Lernprozessen unterscheiden: eine (1) **erzeugungsdidaktische**  oder (2) **ermöglichungsdidaktische** Orientierung [vgl. @schussler-wandel-2017, 87ff]. Diese sind in Tabelle \@ref(tab:Idealtypen) aufgeführt und gegenübergestellt.
+
+Table: (\#tab:Idealtypen) Idealtypische Gegenüberstellung von erzeugungs- und ermöglichungsdidaktischen Orientierungen im Lehr-Lernprozess [vgl. @schussler-ermoglichungsdidaktik-2015]. 
+
+|   | Erzeugungsdidaktische Orientierungen | Ermöglichungsdidaktische Orientierungen |
+|---|-------|---------|
+| Lernparadigma | **Mechanistisch**: Gelernt wird, was gelehrt wurde. Der Lehrprozess folgt dem Regelkreis: Lernzielbestimmung → Wissensvermittlung → Lernüberprüfung | **Systemisch**: Das Gelernte ist abhängig von den emotional- kognitiven Strukturen des Lernenden und dem sozial-historischen Kontext |
+| Lehrverständnis | **Instruktionistisch**: Wissenserwerb erfolgt über Lehrinput (Fremdorganisation); didaktisches Gefälle zwischen Lehrendem und Lernendem; schwache Wechselwirkungen zwischen den Beteiligten | **Konstruktivistisch**: Wissenserwerb erfolgt durch selbstorganisierte de- und rekonstruktive, nicht-lineare Verknüpfungs- und Aneignungsprozesse; Geringes didaktische Gefälle; starke Wechselwirkungen/Rückkopplungen zwischen den Beteiligten |
+| Didaktische Folgerungen | **Stellvertretende Erschließung**: Planungsdenken \
+**Normative Position**: Belehrung, Aufklärung \
+**Geschlossenes Lerngeschehen**: Keine Abweichung von der Lehrplanung mögllich | **Selbsterschließung**: Operatives Denken (situativ-flexibel) \
+**Reflexive Position**: Gültigkeit der Wirklichkeitskonstruktionen wird im Dialog reflektiert und problematisiert. \
+**Offenes Lernarrangement**: Planungskorrekturen möglich |
+| Professionelles Selbstverständnis | Lehren, Vermitteln, Führen Lehrender ist Wissensträger und -vermittler | Lernbegleitung und Unterstützung von Selbsterschließungsaktivitäten Lehrender ist Mitlernender |
+| Vorrangiges Ziel | Vermittlung und Nachvollzug geforderten Wissens | Entwicklung und Konstruktion reflexiven Wissens, Kompetenzentwicklung |
+
+Beide didaktische Orientierungen sind in der Onlinelehre umsetzbar. Wichtig ist nur eine Festlegung auf die entsprechenden Lernparadigma und dem damit einhergehenden Lehrverständnis vor Planung, Entwurf und Ausgestaltung eines online-basierten Lehrangebots. Die entsprechenden Ziele sollte die Grundlage für die entsprechende Planung der Prüfungsform sein.
+
+
+### Ermöglichungsdidaktik für ein kompetenzorientiertes Lehrangebot
+
+Die kompetenzorientierte Lehrvermittlung [@brendel-kompetenzorientiert-2019; @jokiaho-didaktische-2018] stellt Dozierende an Hochschulen vor eine besondere Herausforderung bei der Gestaltung unbd Implementierung von online-basierten Lehrangeboten.[^Kompetenz] Hier kann ein ermöglichungsdidaktischer Ansatz häufig eher zielführend sein, als ein massgeblich erzeugungsdidaktischer:
+
+> Einer solchen ermöglichungsdidaktischen Sicht des Lernens geht es dabei nicht um Wissensvermittlung, sondern um Kompetenzentwicklung. ... Daher geht es in ermöglichungsdidaktischen Lernsettings vor allem darum, erfahrungs-, handlungs- und problemorientierte Lernszenarien zu entwickeln. [@schussler-wandel-2017, 89]
+
+[^Kompetenz]: Auch dieses vielfach heiß-diskutierte Thema soll hier nicht weiter behandelt werden. Dafür gibt es genügend andere Foren und Orte.
+
+
+
+### Räumlichkeit als Herausforderung und Chance
+
+"Im Gegensatz zu den klassischen Möglichkeiten eines Fernstudiums, in dem Studienbriefe abgearbeitet werden, um sich Inhalte anzueignen, bieten sich im Rahmen eines Online-Studiengangs vielfältige Möglichkeiten der Interaktion und Rückkopplung, sowohl zwischen Studierenden und Lehrenden, als auch der Studierenden untereinander. Trotzdem bleibt die Tatsache bestehen, dass im Gegensatz zu einem Präsenzstudium die Vereinzelung der Studierenden eines der Hauptprobleme eines berufsbegleitenden Studiengangs darstellt. Oft auch räumlich von den Mitstudierenden weit entfernt, sind Studierende eines Online-Studiengangs erst einmal Einzelkämpfe\r*innen, die lernen müssen, mit ihrer isolierten Situation umzugehen." [@nebel-moglichkeiten-2017, 58]
+
+
+### Kollaboration
+
+"Die gemeinsame Aneignung von Wissen im Sinne eines Wissen-Was hat sicherlich ihre Grenzen. Sich reine Lehrinhalte anzueignen, funktioniert in der Regel nach wie vor am besten in selbst gewähl- ter Isolation und Konzentration. Das Wissen-Wie hingegen zeichnet sich dadurch aus, dass es hier eher darum geht, Zusammenhänge herzustellen, Fragestellungen zu entwickeln, Anwendungsmöglichkeiten zu erproben und Ergebnisse zu überprüfen – alles Vorgänge, bei denen kollaboratives Arbeiten in Gruppen ausgesprochen hilfreich sein kann. Die Interaktionsmöglichkeiten der digitalen Vernetzung in einem Online- Studiengang sind ebenso vielfältig wie individuell anpassbar." [@nebel-moglichkeiten-2017, 62]
+
+
+### Technologie als wichtiger Faktor
+
+"Auch wenn die digitalen Medien inzwischen unseren Alltag flächendeckend umrahmen, ist für ein Online-Studium eine gewisse Affinität zu technischen Medien in jedem Fall eine dritte hilfreiche Voraussetzung." [@nebel-moglichkeiten-2017, 60]
+
+
+
+
+
+# Literaturverzeichnis
+
+

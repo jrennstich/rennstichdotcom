@@ -1,0 +1,43 @@
+---
+title: Online-Übung
+linktitle: Online-Übung
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: true
+menu:
+  online-lehre-praxis:
+    parent: Lehrformate
+    weight: 3
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 9
+---
+
+## Was sind "Online Übungen"?
+
+Kurzeinführung mit Verweisen.
+
+### Synchrone Online-Übungen
+
+Beschreibung der verschiedenen Methoden
+
+### Asynchrone Online-Übungen
+
+Beschreibung der verschiedenen Methoden
+
+## Einsatzmöglichkeiten
+
+Beschreibung der Einsatzmöglichkeiten
+
+### Beispiel 1
+
+Beschreibung des Beispiels
+
+### Beispiel 1
+
+Beschreibung des Beispiels
+
+## Weitere Hinweise
+
+Verweis auf weitere Links, Literatur etc.
