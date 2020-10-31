@@ -39,7 +39,7 @@ tags:
 url_code: ""
 url_pdf: ""
 url_slides: "/files/MZES_Replication_Workshop_Sep_2020_SyntheticData_RENNSTICH.pdf"
-url_video: ""
+url_video: "{{< youtube jTdFHu_1GNQc >}}"
 header:
   image: "auditorium-benches-board-wide.jpg"
   caption: ""
