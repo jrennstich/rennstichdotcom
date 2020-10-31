@@ -16,7 +16,7 @@ event: Workshop - Teaching Replication in the Social Sciences
 event_url: https://www.mzes.uni-mannheim.de/d7/en/events/teaching-replication-in-the-social-sciences
 featured: true
 image:
-  caption: 'Image credit: announcemnt screenshot'
+  caption: 'Image credit: announcement screenshot'
   focal_point: Smart
 links:
 - icon: twitter

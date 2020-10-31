@@ -36,8 +36,8 @@ tags:
 - literacy
 - data
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "/files/Rennstich_Talk_FU_Hagen_23_Oct_2020.pdf"
+url_slides: "https://www.mentimeter.com/s/58af9113f576606478445e676c62d6f4/be903903b09b"
 url_video: ""
 header:
   image: "auditorium-benches-board-wide.jpg"

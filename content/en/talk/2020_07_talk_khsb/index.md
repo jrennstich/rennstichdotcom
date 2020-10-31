@@ -1,7 +1,7 @@
 ---
-title: "Digitalisierung als Transformation der Sozialen Arbeit [RESCHEDULED]"
+title: "Digitalisierung als Transformation der Sozialen Arbeit"
 event: Invited Talk
-event_url: 
+event_url:
 
 location: Katholische Hochschule für Sozialwesen Berlin (KHSB)
 address:
@@ -18,15 +18,15 @@ abstract: Talk on the impact of digitalization on Social Work as a profession an
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-07-20T09:00:00Z"
-date_end: "2020-07-20T10:30:00Z"
+date: "2020-09-30T09:00:00Z"
+date_end: "2020-09-30T10:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-07-17T00:00:00Z"
 
 authors: [admin]
-tags: [methodology, data, digialization, social-sciences, transformation, literacy, digital]
+tags: [methodology, data, digitalization, social-sciences, transformation, literacy, digital]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -41,8 +41,8 @@ links:
   name: Follow
   url: https://twitter.com/digprof
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "/files/KHSB_30_Sep_2020.pdf"
+url_slides: "https://www.mentimeter.com/s/bba7a001d36845d17147ff6ae4b73e7d/34300519dc44"
 url_video: ""
 
 
@@ -51,7 +51,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+slides:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
