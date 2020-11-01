@@ -61,7 +61,7 @@ social:
   link: 'https://orcid.org/0000-0003-0577-7460'
 - icon: google-scholar
   icon_pack: ai
-  link: 'https://scholar.google.de/citations?hl=en&user=lGlex5EAAAAJ'
+  link: https://scholar.google.de/citations?hl=en&user=lGlex5EAAAAJ
 - icon: osf
   icon_pack: ai
   link: 'https://osf.io/acw2h'
