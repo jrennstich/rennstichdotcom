@@ -52,31 +52,34 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: 'https://twitter.com/digprof'
+  link: https://twitter.com/digprof
 - icon: cv
   icon_pack: ai
-  link: files/cv_de.pdf
+  link: 'files/cv.pdf'
 - icon: orcid
   icon_pack: ai
-  link: 'https://orcid.org/0000-0003-0577-7460'
-- icon: google-scholar
-  icon_pack: ai
-  link: 'https://scholar.google.de/citations?hl=en&user=lGlex5EAAAAJ'
-- icon: osf
-  icon_pack: ai
-  link: 'https://osf.io/acw2h'
-- icon: github
-  icon_pack: ai
-  link: 'https://github.com/jrennstich'
+  link: https://orcid.org/0000-0003-0577-7460
 - icon: linkedin
   icon_pack: fab
-  link: 'https://www.linkedin.com/in/rennstich/'
+  link: https://www.linkedin.com/in/rennstich/
 - icon: xing
   icon_pack: fab
-  link: 'https://www.xing.com/profile/JoachimKarl_Rennstich'
+  link: https://www.xing.com/profile/JoachimKarl_Rennstich
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.de/citations?hl=en&user=lGlex5EAAAAJ
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/acw2h 
+- icon: github
+  icon_pack: ai
+  link: https://github.com/jrennstich
+- icon: github
+  icon_pack: ai
+  link: https://github.com/jrennstich
 - icon: zotero
   icon_pack: ai
-  link: 'https://www.zotero.org/jkr/'
+  link: https://www.zotero.org/jkr/
 
 
 # Link to a PDF of your resume/CV from the About widget.
