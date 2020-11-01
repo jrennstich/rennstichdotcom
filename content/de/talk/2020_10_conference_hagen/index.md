@@ -43,3 +43,5 @@ header:
   image: "auditorium-benches-board-wide.jpg"
   caption: ""
 ---
+
+Eine ausführliche schriftliche Version des Beitrags erscheint im Rahmen eines Sammelbandes Mitte 2021.
