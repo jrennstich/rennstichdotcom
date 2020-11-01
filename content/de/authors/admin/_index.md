@@ -55,7 +55,7 @@ social:
   link: https://twitter.com/digprof
 - icon: cv
   icon_pack: ai
-  link: 'files/cv.pdf'
+  link: 'files/cv_de.pdf'
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0577-7460
