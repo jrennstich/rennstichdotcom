@@ -75,7 +75,7 @@ social:
   icon_pack: ai
   link: https://github.com/jrennstich
 - icon: github
-  icon_pack: ai
+  icon_pack: fab
   link: https://github.com/jrennstich
 - icon: zotero
   icon_pack: ai
