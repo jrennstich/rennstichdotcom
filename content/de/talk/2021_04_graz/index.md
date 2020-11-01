@@ -15,7 +15,7 @@ date_end: "2021-04-10T14:00:00Z"
 event:  Kritik und Engagement in der Sozialen Arbeit
 event_url: https://engagement.uni-graz.at/de/call-in-deutsch/
 featured: true
-draft: true
+draft: false
 image:
   caption: 'Image credit: program screenshot'
   focal_point: Smart
