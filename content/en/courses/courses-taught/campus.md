@@ -15,40 +15,36 @@ weight: 1
 ---
 ## Courses taught on campus (face-to-face)
 
-Courses taught at:
+[^1]: [Indiana University](https://indiana.edu/)
+[^2]: [Temple University](https://www.temple.edu)
+[^3]: [Fordham University](https://www.fordham.edu/)
+[^4]: [CVJM-Hochschule (YMCA University of Applied Sciences)](https://www.cvjm-hochschule.de/)
 
-1. [Indiana University](https://indiana.edu/)
-2. [Temple University](https://www.temple.edu)
-3. [Fordham University](https://www.fordham.edu/)
-4. [CVJM-Hochschule (YMCA University of Applied Sciences)](https://www.cvjm-hochschule.de/)
-
-| Course Title                                        |  School  |
-|:----------------------------------------------------|------:|
-| Theological Anthropology 	                          | 4     |
-| Philosophical Anthropology 	                	      | 4     |
-| Research and Social Transformation 	              	  | 4     |
-| Needs and Impact Assessments / Research Design        | 4     |
-| World Economics, Ethics and Globalization             | 4     |
-| Intercultural Philosophy 	            	            | 4     |
-| Inter-religious Dialogue 	                        	| 4     |
-| Basics of Neuro-Leadership 	                    	  | 4     |
-| Introduction into Management and Organizational Studies     | 4     |
-| Strategy Development in Organizations and Networks  | 4     |
-| Project Management 	                            	  | 4     |
-| Knowledge Management and IT, QM and Assessment          | 4     |
-| Resource Management (Planning and Budgeting)        | 4     |
-| Micro-Financing and Financial Development             | 4     |
-| Law and its Manifestations 	                    	  | 4     |
-| Human Rights 	                                	    | 4     |
-| Politics and History in a Global Perspective          | 4     |
-| Social Economics: The role of Civil Society and the Third Sector  | 4     |
-| Citizenship Education: From Subject to Citizen (S2C)   | 4     |
-| Climate Change, Justice and Poverty               	| 4     |
-| Concepts of Friendly Energy                       	| 4     |
-| Entrepreneurship and Youth Empowerment            	  | 4     |
-| Academic Writing Skills 	                          | 4     |
-| Einführung in das wissenschaftliche Arbeiten        | 4     |
-| Einführung in die empirische Forschung der Sozialen Arbeit  | 4     |
-| Einführung in die qualitativen Methoden der empirischen Sozialforschung für soziale Berufe      | 4     |
-| Einführung in die quantitativen Methoden der empirischen Sozialforschung für soziale Berufe      | 4     |
-| Europäische und internationale Organisationen der Sozialen Arbeit                                 | 4     |
+| Course title                                              |
+|:----------------------------------------------------------|
+| International Political Economy[^1][^2][^3]               |
+| Intellectual History[^2]                                  |
+| Introduction to International Relations[^2][^3]           |
+| War and Peace[^2][^3]      	                              |
+| International Relations & Terrorism[^3]                   |
+| Service Learning (Honors)[^3]                             |
+| Globalization Seminar (Honors)[^3]                        |
+| Immigration (Honors)[^3]               	                  |
+| Service Learning[^3]                                      |
+| Global Governance (Service Learning)[^3]                  |
+| European Union[^3]                           	            |
+| Understanding the Global Economy[^3]  	                  |
+| Seminar - Globalization (Senior)[^3]                      |
+| Media & Politics[^3]  	                                 	|
+| Analysis of International Politics[^3]                    |
+| Intellectual History[^3]                                  |
+| Human Development and Social Responsibility[^4]           |
+| Cross-cultural Competence[^4]                             |
+| Resource-focused, Outcome-oriented Team Development[^4]   |
+| Rhetoric, Moderation & Facilitation[^4]                   |
+| Identity and Culture – Cultural Identity[^4]              |
+| Einführung in das wissenschaftliche Arbeiten[^4]          |
+| Einführung in die empirische Forschung der Sozialen Arbeit[^4]                                 |
+| Einführung in die qualitativen Methoden der empirischen Sozialforschung für soziale Berufe[^4] |
+| Einführung in die quantitativen Methoden der empirischen Sozialforschung für soziale Berufe[^4]|
+| Europäische und internationale Organisationen der Sozialen Arbeit[^4] |
