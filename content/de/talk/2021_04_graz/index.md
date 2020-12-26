@@ -10,9 +10,9 @@ address:
 all_day: true
 authors:
 - admin
-date: "2021-04-08T12:00:00Z"
-date_end: "2021-04-10T14:00:00Z"
-event:  Kritik und Engagement in der Sozialen Arbeit
+date: "2021-09-23T12:00:00Z"
+date_end: "2021-09-25T14:00:00Z"
+event:  Criticism and Commitment in Social Work
 event_url: https://engagement.uni-graz.at/de/call-in-deutsch/
 featured: true
 draft: false
