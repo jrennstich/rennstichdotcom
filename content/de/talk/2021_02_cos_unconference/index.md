@@ -1,6 +1,6 @@
 ---
 title: "Workshop: Teaching Replication in the Social Sciences"
-abstract: 
+abstract: The workshop highlights the opportunities and challenges offered by using replication as a didactical tool for empirical methods education. After a brief introduction of the concepts involved, the workhsop offers a fishbowl discussion with workshop participants, followed by more in-depth discussions of the various methodoligical issues and tools involved as well as lessons learned for various course formats and target groups.
 address:
   city: Virtual
   country: 
@@ -24,7 +24,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/digprof
-location: University of Graz
+location: Center for Open Science
 math: true
 projects: [Professional Digitalization]
 publishDate: "2021-01-21T00:00:00Z"
