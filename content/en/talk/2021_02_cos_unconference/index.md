@@ -10,6 +10,12 @@ address:
 all_day: true
 authors:
 - admin
+- Jan H. Höffler
+- Nate Breznau 
+- Gerrit Bauer
+- Johanna Gereke
+- Rima-Maria Rahal
+- Hannah Soiné 
 date: "2021-02-09T16:00:00Z"
 date_end: "2021-02-09T18:00:00Z"
 event:  Virtual Unconference on Open Scholarship Practices in Education Research
@@ -40,7 +46,7 @@ tags:
 - methodology
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://osf.io/5sgf7/"
 url_video: ""
 header:
   image: "auditorium-benches-board-wide.jpg"
