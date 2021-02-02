@@ -23,7 +23,7 @@ menu:
     name: Kurze Einführung in die Onlinelehre
     weight: 1
 ---
-{{< icon name="terminal" pack="fas" >}} **Online-Lehre-Praxis.de** _zeigt praxisnahe Methoden und Ansätze der Onlinelehre aus der Perspektive eines Dozierenden für andere Dozentinnen und Dozenten in der deutschen Hochschullandschaft_
+**Online-Lehre-Praxis.de** _zeigt praxisnahe Methoden und Ansätze der Onlinelehre aus der Perspektive eines Dozierenden für andere Dozentinnen und Dozenten in der deutschen Hochschullandschaft_
 
 Ist das ganze Thema **Onlinelehre**, "synchrone" und "asynchrone" **Lehrformate** noch **Neuland** für Sie? Klar gibt es eine Riesenmenge an **Anleitungen und Tipps** überall aber ... irgendwie scheinen die immer gerade da **aufzuhören**, wo es **konkret** werden müsste? Dann sind Sie hier **genau richtig**. Auf dieser Seite geht es **nicht** darum, möglichst viele verschiedene **Konzepte** und **Tools aufzulisten** oder online Lehre **vertieft theoretisch** und/oder **methodisch** zu **reflektieren**.
 
