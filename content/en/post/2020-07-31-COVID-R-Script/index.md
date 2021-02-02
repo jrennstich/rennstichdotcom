@@ -4,8 +4,7 @@ subtitle: R-script to Calculate Covid-19 R Number Based on RKI Nowcast Data
 summary: I made some easy-to-run scripts available for people, who want to plot the latest RKI-Nowcast R-estimates themselves. There is a German and an English version.
 authors:
 - admin
-featured: false
-draft: false
+
 tags:
 - r
 - methodology

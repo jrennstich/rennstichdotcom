@@ -4,8 +4,6 @@ subtitle: Classroom policies for use of laptops, tablets, phones and really all 
 summary: Description of development of my classroom policies for technology usage during class (in German). Includes a link to my German version of Cornell Notes templates.
 authors:
 - admin
-featured: false
-draft: false
 tags:
 - lecture
 - notes
@@ -56,7 +54,7 @@ Daher gelten in dieser Vorlesung folgende **Regeln**:
 
 ## Cornell-Notizen
 
-Für diejenigen Studierenden, die für sich noch keine überzeugende Notizmethode gefunden haben — oder eine neue Methode probieren möchten — wird hier die weltweit seit langem erfolgreich praktizierte und empirisch im Erfolg bestätigte (vgl. bspw. Hayati & Jalilifar, 2009) sog. [Cornell-Notiz Methode](https://de.wikihow.com/Cornell-Notizen-machen) empfohlen. Eine Vorlage (zum [Ausdruck](https://osf.io/ufe6q/) oder zur [Bearbeitung](https://osf.io/jhda3/)) finden Sie in deutscher Sprache [hier](https://osf.io/rudt9/). Die Original Vorlage der Cornell University finden Sie [hier](http://lsc.cornell.edu/wp-content/uploads/2015/10/Cornell-Note_Taking-System.pdf). 
+Für diejenigen Studierenden, die für sich noch keine überzeugende Notizmethode gefunden haben — oder eine neue Methode probieren möchten — wird hier die weltweit seit langem erfolgreich praktizierte und empirisch im Erfolg bestätigte (vgl. bspw. Hayati & Jalilifar, 2009) sog. [Cornell-Notiz Methode](https://de.wikihow.com/Cornell-Notizen-machen) empfohlen. Eine Vorlage (zum [Ausdruck](https://osf.io/ufe6q/) oder zur [Bearbeitung](https://osf.io/jhda3/)) finden Sie in deutscher Sprache [hier](https://osf.io/rudt9/). Die Original Vorlage der Cornell University finden Sie [hier](http://lsc.cornell.edu/wp-content/uploads/2015/10/Cornell-Note_Taking-System.pdf).
 
 
 ## Bibliographie

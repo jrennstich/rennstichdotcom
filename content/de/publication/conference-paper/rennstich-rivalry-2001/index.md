@@ -3,7 +3,6 @@ title: "Rivalry environments and the nineteenth K-wave [Paper presentation]"
 authors:
 - admin
 date: "2001-04-19T00:00:00Z"
-date: "2001-04-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

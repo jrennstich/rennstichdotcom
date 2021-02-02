@@ -4,8 +4,6 @@ subtitle: JASP/JAGS workshop for social scientists in Amsterdam, The Netherlands
 summary: 2019 workshop on statistical modeling (with JASP and R+JAGS)
 authors:
 - admin
-featured: false
-draft: false
 tags:
 - workshop
 - conference

@@ -4,8 +4,6 @@ subtitle: Templates for setting up an e-portfolio
 summary: Templates for setting up an e-portfolio
 authors:
 - admin
-featured: false
-draft: false
 tags:
   - teaching
   - oer

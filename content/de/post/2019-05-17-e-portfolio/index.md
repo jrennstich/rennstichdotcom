@@ -4,8 +4,6 @@ subtitle: Vorlagen (Bewertungsrubrik und Beschreibungen)
 summary: Vorlagen für den Einsatz von E-Portfolios
 authors:
   - admin
-featured: false
-draft: false
 tags:
 - teaching
 - oer

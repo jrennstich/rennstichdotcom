@@ -4,8 +4,6 @@ subtitle: R-script zur Berechnung und graphischen Darstellung der aktuellen Covi
 summary: Ich habe die Scripts des RKI zur Berechnung des aktuellen R-Wertes erweitert, damit auch Personen mit geringen R Kenntnissen diese problemlos laufen lassen und sich Daten herunterladen und die Plots entsprechend selber erstellen können. Es gibt eine englische und deutsche Version.
 authors:
 - admin
-featured: false
-draft: false
 tags:
 - r
 - methodology

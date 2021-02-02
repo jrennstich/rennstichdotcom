@@ -4,8 +4,6 @@ subtitle: EAIT Special Section
 summary: EAIT Special Section
 authors:
 - admin
-featured: false
-draft: false
 tags:
   - e-learning
   - collaboration

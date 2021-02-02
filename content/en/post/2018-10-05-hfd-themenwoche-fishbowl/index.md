@@ -4,8 +4,6 @@ subtitle: Fishbowl, including my participation
 summary:  Fishbowl participation as part of the HFD-Themenwoche 2018 in Berlin.
 authors:
   - admin
-featured: false
-draft: false
 tags:
   - digital
   - literacy

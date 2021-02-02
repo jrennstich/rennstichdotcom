@@ -4,8 +4,6 @@ subtitle: Beitrag zur Fishbowl
 summary: Beitrag zur Fishbowl im Rahmen der HFD-Themenwoche 2018 in Berlin.
 authors:
   - admin
-featured: false
-draft: false
 tags:
   - digital
   - literacy
