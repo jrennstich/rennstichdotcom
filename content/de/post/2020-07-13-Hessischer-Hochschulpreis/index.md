@@ -23,7 +23,7 @@ image:
   caption: Der Rektor (links) nach Überreichung der Urkunde und Glückwünsche
   focal_point: Smart
   preview_only: no
-projects: teaching-methods
+projects: [teaching-methods]
 ---
 
 Wie kann man in nur einem Semester empirische Forschung im "echten Einsatz" in der gesamten Bandbreite von qualitativen und quantitativen Ansätzen simulieren und die dort gewonnen Kompetenzen evaluieren? Was sich zunächst als ziemlich harte didaktische Nuss darstellte, wurde nun am Ende ein preisgekröntes Konzept. Das Land Hessen vergibt in seinem bundesweit hoch angesehenen "Hessischen Hochschulpreis für Exzellenz in der Lehre" jedes Jahr Auszeichnungen in verschiedenen Kategorien.
