@@ -1,7 +1,7 @@
 ---
 title: "The making of a global system: Towards a general theory of international relations [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2005-03-01T00:00:00Z"
 date_end: "2005-03-05T00:00:00Z"
 doi: ""

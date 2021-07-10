@@ -1,7 +1,7 @@
 ---
 title: "E-Prüfungen"
 authors:
-- admin
+- jkr
 date: "2017-11-01T00:00:00Z"
 doi: ""
 
@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In J. Gerick, A. Sommer, & G. Zimmerman (Eds.), *50 Prüfungsformate für die Hochschullehre. Kompetent Prüfungen gestalten* (pp. 67–70). Waxmann (UTB)"
+publication: "In J. Gerick, A. Sommer, & G. Zimmerman (Hrsg.), *50 Prüfungsformate für die Hochschullehre. Kompetent Prüfungen gestalten* (S. 67–70). Waxmann (UTB)"
 publication_short: ""
 
 abstract: E-Prüfungen sind methodisch breit gefächert und finden sowohl in der onlinebasierten Lehre, als Teil von Blended-Learning-Formaten oder auch rein campusbasierten Lehrangeboten Anwendung. Lernplattformen bieten vielfältige und komplexe Gestaltungsmöglichkeiten und die Möglichkeit der Verbindung von formativen und summativen Prüfungen. Vorteile bestehen in der weitgehend automatisierten Bewertung, sowie der Möglichkeit der Einbindung von multimedialen Elementen in die Fragestellung.

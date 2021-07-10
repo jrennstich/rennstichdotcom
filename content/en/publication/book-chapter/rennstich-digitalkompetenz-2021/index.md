@@ -1,7 +1,7 @@
 ---
 title: "Digitalkompetenz für Soziale Berufe: Der Einfluss der digitalen Informatisierung auf Lehre und Ausbildungsprofile"
 authors:
-- admin
+- jkr
 date: "2021-06-01T00:00:00Z"
 # doi: "10.1093/acrefore/9780190846626.013.431"
 

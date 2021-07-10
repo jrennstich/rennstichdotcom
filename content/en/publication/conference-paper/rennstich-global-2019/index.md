@@ -1,7 +1,7 @@
 ---
 title: "A global metamorphosis? A theory of evolution of a digital capitalism [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2019-09-12T00:00:00Z"
 date_end: "2019-09-14T00:00:00Z"
 doi: ""

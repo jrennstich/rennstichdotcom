@@ -3,7 +3,7 @@ title: "Echoes of the past: The relation of redemption and contamination in Cong
 authors:
 - Christin Köber
 - Ruth Weihofen
-- admin
+- jkr
 date: "2019-12-13T00:00:00Z"
 doi: "10.1177/0276236617731734"
 
@@ -30,7 +30,7 @@ summary:
 tags:
 - africa
 - identity
-- narratives
+- narrartives
 - psychology
 
 links:

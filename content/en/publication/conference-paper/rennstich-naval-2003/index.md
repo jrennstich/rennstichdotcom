@@ -1,7 +1,7 @@
 ---
 title: "Naval ports and virtual nodes: The historical evolution of world-city networks in the global world system [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2003-02-26T00:00:00Z"
 date_end: "2003-03-01T00:00:00Z"
 doi: ""

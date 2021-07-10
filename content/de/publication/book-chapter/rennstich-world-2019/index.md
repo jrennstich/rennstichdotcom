@@ -1,7 +1,7 @@
 ---
 title: "The world system in the information age: structure, processes, and technologies"
 authors:
-- admin
+- jkr
 date: "2019-01-01T00:00:00Z"
 doi: "10.1093/acrefore/9780190846626.013.431"
 

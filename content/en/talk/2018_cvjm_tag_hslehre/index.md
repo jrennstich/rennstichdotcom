@@ -9,7 +9,7 @@ address:
   street: Hugo-Preuß-Str. 40
 all_day: false
 authors:
-- admin
+  - jkr
 date: "2018-12-11T15:00:00Z"
 date_end: "2018-12-11T17:00:00Z"
 event: Dritter Tag der Hochschullehre, CVJM-Hochschule

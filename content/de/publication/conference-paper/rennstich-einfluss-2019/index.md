@@ -1,7 +1,7 @@
 ---
 title: "Der Einfluss der Digitalisierung auf Lehre und Ausbildungsprofile in der Sozialen Arbeit: Digitalkompetenz und Data Literacy als notwendige professionelle Kompetenzen für Soziale Arbeit [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2019-09-02T00:00:00Z"
 doi: ""
 

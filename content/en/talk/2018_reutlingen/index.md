@@ -9,7 +9,7 @@ address:
   street: Pestalozzistraße 53, Gebäude 14
 all_day: false
 authors:
-- admin
+  - jkr
 date: "2018-10-29T14:00:00Z"
 date_end: "2030-06-01T15:00:00Z"
 event:

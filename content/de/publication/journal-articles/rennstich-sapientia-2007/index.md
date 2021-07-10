@@ -1,7 +1,7 @@
 ---
 title: "Sapientia et Doctrina---Globalization: A Future Foretold?"
 authors:
-- admin
+- jkr
 date: "2007-05-01T00:00:00Z"
 doi: ""
 

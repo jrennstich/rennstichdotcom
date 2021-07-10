@@ -1,7 +1,7 @@
 ---
 title: "Book Review of \"Territory, Authority, Rights: From Medieval to Global Assemblages\" by Saskia Sassen"
 authors:
-- admin
+- jkr
 date: "2007-05-01T00:00:00Z"
 doi: "10.1017/S1537592707071423"
 

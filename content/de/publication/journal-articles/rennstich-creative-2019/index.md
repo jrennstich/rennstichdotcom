@@ -1,7 +1,7 @@
 ---
 title: "Creative online collaboration: a special challenge for co-creation"
 authors:
-- admin
+- jkr
 date: "2019-03-01T00:00:00Z"
 doi: "10.1007/s10639-019-09875-6"
 

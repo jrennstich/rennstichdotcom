@@ -1,7 +1,7 @@
 ---
 title: "The future of hegemony and global system leadership"
 authors:
-- admin
+- jkr
 date: "2005-01-01T00:00:00Z"
 doi: ""
 

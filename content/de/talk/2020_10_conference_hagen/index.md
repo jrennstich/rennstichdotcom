@@ -9,7 +9,7 @@ address:
   street: Universitätsstraße 47
 all_day: true
 authors:
-- admin
+  - jkr
 date: "2020-10-22T12:00:00Z"
 date_end: "2020-10-23T14:00:00Z"
 event: Fachkonferenz - Digitalisierung und Soziale Arbeit - Transformationen, Beharrungen und Herausforderungen

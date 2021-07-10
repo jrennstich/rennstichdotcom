@@ -1,7 +1,7 @@
 ---
 title: "A new, globalized e-conomy? Trends and performance among the world’s largest corporations [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2002-02-24T00:00:00Z"
 date_end: "2002-02-27T00:00:00Z"
 doi: ""

@@ -1,7 +1,7 @@
 ---
 title: "Chaos or reorder? The future of hegemony in a world-system in upheaval"
 authors:
-- admin
+- jkr
 date: "2005-12-01T00:00:00Z"
 doi: "10.5195/jwsr.2005.390"
 

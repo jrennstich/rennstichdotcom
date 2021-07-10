@@ -1,7 +1,7 @@
 ---
 title: Evolutionary systems theory
 authors:
-- admin
+- jkr
 date: "2010-01-01T00:00:00Z"
 doi: "10.1093/acrefore/9780190846626.013.391"
 

@@ -1,7 +1,7 @@
 ---
 title: "The Fortune Global 50: the role of multinational corporations in the international political economy [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2002-11-15T00:00:00Z"
 date_end: "2002-11-18T00:00:00Z"
 doi: ""

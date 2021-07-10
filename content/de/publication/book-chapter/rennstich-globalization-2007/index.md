@@ -1,7 +1,7 @@
 ---
 title: "Is globalization self-organizing?"
 authors:
-- admin
+- jkr
 date: "2007-01-01T00:00:00Z"
 doi: "10.4324/9780203937297"
 

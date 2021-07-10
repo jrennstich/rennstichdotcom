@@ -2,7 +2,7 @@
 title: "All politics are orbital: two-level rivalry dynamics and the US-Soviet space race [Paper presentation]"
 authors:
 - Michael P. Colaresi
-- admin
+- jkr
 date: "2003-08-27T00:00:00Z"
 date_end: "2003-08-31T00:00:00Z"
 doi: ""

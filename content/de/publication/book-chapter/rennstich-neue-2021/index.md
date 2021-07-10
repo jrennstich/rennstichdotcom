@@ -1,7 +1,7 @@
 ---
-title: "Neue Tricks für alte Hunde? Informatisierung und Digitalisierung als Herausforderung des notwendigen Kompetenzspektrums in Lehrvermittlung und Forschung"
+title: "Neue Tricks für alte Hunde? Digitalisierung als Herausforderung in Lehrvermittlung und Forschung"
 authors:
-- admin
+- jkr
 date: "2021-06-01T00:00:00Z"
 # doi: "10.1093/acrefore/9780190846626.013.431"
 
@@ -35,7 +35,7 @@ featured: true
 links:
 # - name: Custom Link
 #  url:
-url_pdf:
+url_pdf: 'Rennstich_2021_NeueTricks_submitted_draft.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

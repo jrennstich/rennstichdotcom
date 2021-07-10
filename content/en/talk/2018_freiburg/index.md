@@ -9,7 +9,7 @@ address:
   street: Karlstraße 63
 all_day: false
 authors:
-- admin
+  -   - jkr
 date: "2018-12-06T17:00:00Z"
 date_end: "2018-12-01T18:00:00Z"
 event:

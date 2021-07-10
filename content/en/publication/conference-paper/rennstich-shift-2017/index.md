@@ -1,7 +1,7 @@
 ---
 title: "The shift towards a digital culture? Postindustrialism, values, and digital fitness [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2017-12-04T00:00:00Z"
 date_end: "2017-12-06T00:00:00Z"
 doi: ""

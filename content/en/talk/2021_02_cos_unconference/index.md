@@ -3,19 +3,19 @@ title: "Workshop: Teaching Replication in the Social Sciences"
 abstract: The workshop highlights the opportunities and challenges offered by using replication as a didactical tool for empirical methods education. After a brief introduction of the concepts involved, the workhsop offers a fishbowl discussion with workshop participants, followed by more in-depth discussions of the various methodoligical issues and tools involved as well as lessons learned for various course formats and target groups.
 address:
   city: Virtual
-  country: 
-  postcode: 
+  country:
+  postcode:
   region:
-  street: 
+  street:
 all_day: true
 authors:
-- admin
+- jkr
 - Jan H. Höffler
-- Nate Breznau 
+- Nate Breznau
 - Gerrit Bauer
 - Johanna Gereke
 - Rima-Maria Rahal
-- Hannah Soiné 
+- Hannah Soiné
 date: "2021-02-09T16:00:00Z"
 date_end: "2021-02-09T18:00:00Z"
 event:  Virtual Unconference on Open Scholarship Practices in Education Research

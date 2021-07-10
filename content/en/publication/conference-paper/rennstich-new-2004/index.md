@@ -1,7 +1,7 @@
 ---
 title: "The new new thing: Technological styles as creators of globalization [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2004-09-02T00:00:00Z"
 date_end: "2004-09-05T00:00:00Z"
 doi: ""

@@ -25,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-07-17T00:00:00Z"
 
-authors: [admin]
+authors: [jkr]
 tags: [methodology, data, digitalization, social-sciences, transformation, literacy, digital]
 
 # Is this a featured talk? (true/false)

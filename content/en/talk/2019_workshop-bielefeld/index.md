@@ -9,7 +9,7 @@ address:
   street: Interaktion 1
 all_day: false
 authors:
-- admin
+  - jkr
 date: "2019-09-02T09:45:00Z"
 date_end: "2019-09-02T22:00:00Z"
 event: Workshop Fachliche Praxis unter den Bedingungen von Digitalisierung - Zur Frage digitaler Transformation in Gesundheit, Pflege und Sozialer Arbeit

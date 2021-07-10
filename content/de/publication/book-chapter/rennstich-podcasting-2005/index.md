@@ -1,7 +1,7 @@
 ---
 title: "Podcasting"
 authors:
-- admin
+- jkr
 date: "2005-10-01T00:00:00Z"
 doi: ""
 

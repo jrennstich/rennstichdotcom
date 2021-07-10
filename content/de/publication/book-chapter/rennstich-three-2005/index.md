@@ -1,7 +1,7 @@
 ---
 title: "Three steps in the globalization of the international system: global networks from 1000 BCE to 2053 CE"
 authors:
-- admin
+- jkr
 date: "2005-01-01T00:00:00Z"
 doi: "10.4324/9780203799475"
 

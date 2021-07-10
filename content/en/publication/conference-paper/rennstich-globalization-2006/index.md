@@ -1,7 +1,7 @@
 ---
 title: "Is globalization self-organization? Global system formation as a long-term complex process [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2006-04-06T00:00:00Z"
 date_end: "2006-04-08T00:00:00Z"
 doi: ""

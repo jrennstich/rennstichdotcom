@@ -1,7 +1,7 @@
 ---
 title: "E-Prüfungen"
 authors:
-- admin
+- jkr
 date: "2017-11-01T00:00:00Z"
 doi: ""
 

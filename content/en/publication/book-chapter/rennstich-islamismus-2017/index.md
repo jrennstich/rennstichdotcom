@@ -1,7 +1,7 @@
 ---
 title: "Islamismus als politisch-soziologisches Phänomen"
 authors:
-- admin
+- jkr
 date: "2017-01-01T00:00:00Z"
 doi: "10.13109/9783666702266.11"
 
@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In J.-F. Bruckermann & K. Jung (Eds.), *Islamismus in der Schule. Handlungsoptionen für Pädagoginnen und Pädagogen* (pp. 11–29). Vandenhoeck & Ruprecht"
+publication: "In J.-F. Bruckermann & K. Jung (Hrsg.), *Islamismus in der Schule. Handlungsoptionen für Pädagoginnen und Pädagogen* (S. 11–29). Vandenhoeck & Ruprecht"
 publication_short: ""
 
 abstract: "Der Begriff \"Islamismus\" ist ein vielbenutzter Begriff. Für die einen steht er für radikal-religiöse Bewegungen, für andere schlicht für die erweckungsbewegte historische Erneuerung einer Religionsgemeinschaft, für wieder andere wird er synonym mit islamischen Fundamentalismus verwandt und in der populären Debatte wurde er bisweilen auf die gleiche Stufe mit Terrorismus gesetzt. Diese Vielschichtigkeit der Bedeutung stellt für die Analyse dessen, was \"Islamismus\" möglicherweise mit einer religiös geprägten sozio-politischen Radikalisierung von Jugendlichen zu tun hat, ein klares Problem dar, dem wir hier nicht ausweichen können und für eine gut informierte Analyse auch nicht dürfen. Dieser Beitrag versucht in der notwendigen Kürze die Komplexität der Debatte grob widerzuspiegeln und bietet danach eine relativ offene Definition von Islamismus an, auf deren Grundlage Religion --- mit einem Fokus auf den Islam --- als kulturelles Bestimmungsprinzip und Legitimationsgrundlage sozio-politischen Handelns beleuchtet wird. Im nächsten Schritt werden dann Fragen um mögliche Zusammenhänge zwischen Religion und Radikalisierung, auch hier wieder mit dem Fokus auf den Islam und vor allem junge Menschen diskutiert. Die dabei relevanten Prozesse sind dynamischer Natur und interagieren mit einem sich ständig verändernden Umfeld. Der Gesamtkontext in denen sich diese und weitere Prozesse entfalten, wird also wieder immer wieder neu ausgestaltet und verändert sich permanent. Anders ausgedrückt: es gibt nicht \"den einen Islam\" oder einen einheitlichen Stufenprozess, wie sich Radikalisierung junger Menschen ausgestaltet. Daher legt dieser Beitrag einen besonderen Wert auf eine Darstellung empirisch gut begründeter Prozesse, die das Zusammenspiel von Religiosität und Radikalisierung allgemein erklären und nicht primär auf die jetzige konkrete Situation in vermeintlichen sozialen Brennpunktvierteln oder -schulen oder der Ausreisewilligkeit nach Syrien fokussiert. Ein solcher Fokus wäre ohnehin verfehlt, wie die Debatte im weiteren zeigt. Der spezifische deutsche Kontext wird hierbei nicht ausser Acht gelassen, da sich die Situation in Deutschland in manchen Teilen eben unterscheidet von der in anderen Ländern. Statt den Fokus auf eine bestimmte \"Problemgruppe\" zu richten, werden Prozesse beleuchtet, wie Religion Gruppen prägen kann und welche Rolle sie bei der individuellen Identifikation spielt und wie sich dies wiederum auswirkt im Handeln der Akteure. Zum Ende fasst der Beitrag dann noch einmal die wesentlichen Punkte zusammen."

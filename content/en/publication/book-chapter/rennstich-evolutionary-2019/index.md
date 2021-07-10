@@ -1,7 +1,7 @@
 ---
 title: "Evolutionary systems theory: concepts and schools in international relations"
 authors:
-- admin
+- jkr
 date: "2019-01-01T00:00:00Z"
 doi: "10.1093/acrefore/9780190846626.013.391"
 
@@ -15,7 +15,7 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In R. Marlin-Bennett (Ed.), *Oxford Research Encyclopedia of International Studies*. Oxford University Press"
+publication: "In R. Marlin-Bennett (Hrsg.), *Oxford Research Encyclopedia of International Studies*. Oxford University Press"
 publication_short: ""
 
 abstract: "As an interdisciplinary approach, evolutionary systems theory borrows from fields such as statistical physics, evolutionary biology as well as economics and others to build on their insights from studies of environments — as systems — and the behavior of actors within those environments — their agency. It provides a bridge between existing and divergent but related strings of research of particular systemic elements as a unifying macro-theory of our social and physical world, fusing multiple approaches into a common model. The unifying key is the focus on the behavior of agents (e.g., individuals; groups; cities; states; world systems) as it relates to the environment (both natural and social) in which these agents act and the feedback between behavior and environment. Evolutionary systems approaches can broadly be placed into two categories: (1) the biobehavioral and (2) the socialevolutionary approach to the study of international relations with the help of evolutionary theory. The point of evolutionary explanations is not to make the case that humans are incapable of making their own choices —far from it, learning and selection are critical elements of human agency in evolutionary models. Rather, evolutionary systems theory also includes in its models the structural capacity to make those choices, which derives from and depends on previous choices made, a process that is also bound by our biological evolution or alternatively by our cognitive limitations and available selection mechanisms, regardless of the relative complexity of human learning capacity."

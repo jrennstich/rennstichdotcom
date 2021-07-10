@@ -1,7 +1,7 @@
 ---
 title: "The Future of Great Power Rivalries"
 authors:
-- admin
+- jkr
 date: "2003-01-01T00:00:00Z"
 doi: ""
 
@@ -15,7 +15,7 @@ publishDate: "2003-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In W. A. Dunaway (Ed.), *Emerging issues in the 21st century world-system: New theoretical directions for the 21st century world-system* (Vol. 2, pp. 143–161). Praeger"
+publication: "In W. A. Dunaway (Hrsg.), *Emerging issues in the 21st century world-system: New theoretical directions for the 21st century world-system* (Bd. 2, S. 143–161). Praeger"
 publication_short: ""
 
 abstract: "Grounded in the expanding literature on the concept of rivalry, this chapter examines the question whether we should expect the number of rivalries in the twenty-first century to rise, to remain steady, or even to fall and why so. It introduces a categorization of “contexts” in the form of global rivalry environments in which interstate rivalries occur. Combining the framework of the leadership long cycle and the concept of rivalries we are able to identify global long cycle environments that determine the way rivalries are established, how they “behave,” and how they end. Just as major shocks cause the equilibria of interstate rival behavior to rearrange and create a new stable environment, so do major global shocks create a phase of transition after which a new global environment is established in which the rivalries take place. The chapter offers a unique view on the past, presence, and future of major power rivalry behavior in the international system by developing three main global rivalry environments (and two transitional phases) stretching from 1200 to 1990 and describing selected parameters influencing rivalry behavior unique in their character in each of those global rivalry environments. It concludes, that the number of strategic rivalries can be expected to remain relatively low, the number of commercial rivalries, however, is very likely to increase significantly in the not too distant future."

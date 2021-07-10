@@ -1,7 +1,7 @@
 ---
 title: "Rivalry environments and the nineteenth K-wave [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2001-04-19T00:00:00Z"
 doi: ""
 

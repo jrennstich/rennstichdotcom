@@ -1,7 +1,7 @@
 ---
 title: "The Future of Great Power Rivalries"
 authors:
-- admin
+- jkr
 date: "2003-01-01T00:00:00Z"
 doi: ""
 

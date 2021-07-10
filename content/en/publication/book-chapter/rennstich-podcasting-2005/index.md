@@ -1,7 +1,7 @@
 ---
 title: "Podcasting"
 authors:
-- admin
+- jkr
 date: "2005-10-01T00:00:00Z"
 doi: ""
 
@@ -15,7 +15,7 @@ publishDate: "2005-10-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In K. Wilbers (Ed.), *Handbuch E-Learning. Expertenwissen aus Wissenschaft und Praxis. Strategien—Instrumente—Fallstudien* (pp. 2002-2016). Fachverlag Deutscher Wirtschaftsdienst"
+publication: "In K. Wilbers (Hrsg.), *&Handbuch E-Learning. Expertenwissen aus Wissenschaft und Praxis. Strategien—Instrumente—Fallstudien* (S. 2002-2016). Fachverlag Deutscher Wirtschaftsdienst"
 publication_short: ""
 
 abstract: "Podcasting ist spätestens seit diesem Jahr ein Massenmedium geworden und hat sich als Radio-on-Demand im Internet durchgesetzt. Der folgende Beitrag zeigt jedoch, dass dieses Medium nicht nur in dem relativ beschränkten Umfang als Online-Audio-Datei zum herunterladen verstanden werden sollte, sondern vielmehr als wirkungsvolles kostengünstiges plattform- übergreifendes Medium gerade im E-Learning-Bereich. Bestehende PC- Technologien machen semi-professionelle Ergebnisse in der Produktions- stufe auch mit geringstem Budget und Personal möglich."

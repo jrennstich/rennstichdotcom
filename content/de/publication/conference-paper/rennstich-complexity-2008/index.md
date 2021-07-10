@@ -1,7 +1,7 @@
 ---
 title: "The complexity of history: systems that make a world [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2008-03-26T00:00:00Z"
 date_end: "2008-03-29T00:00:00Z"
 doi: ""

@@ -9,7 +9,7 @@ address:
   street: Rotebühlstraße 131
 all_day: true
 authors:
-- admin
+  - jkr
 date: "2019-04-26T00:00:00Z"
 date_end: "2019-04-27T00:00:00Z"
 event: Jahrestagung der Deutschen Gesellschaft für Soziale Arbeit (DGSA)

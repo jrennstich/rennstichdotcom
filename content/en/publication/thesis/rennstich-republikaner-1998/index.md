@@ -1,7 +1,7 @@
 ---
 title: "Die Republikaner: eine Medienkommunikationspartei? Organisationsstrukturen und Modernisierungsprozesse innerhalb der amerikanischen House Republican Party, 1988-1994"
 authors:
-- admin
+- jkr
 date: "1998-05-09T00:00:00Z"
 doi: "10.31219/osf.io/y7b2h"
 

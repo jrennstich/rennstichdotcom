@@ -1,7 +1,7 @@
 ---
 title: "The making of a digital world: the evolution of technological change and how it shaped our world"
 authors:
-- admin
+- jkr
 date: "2008-01-01T00:00:00Z"
 doi: "10.1057/9780230611061"
 
@@ -45,7 +45,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: Book cover, all rights reserved.'
   focal_point: ""
@@ -66,5 +66,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-

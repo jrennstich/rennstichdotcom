@@ -1,7 +1,7 @@
 ---
 title: "Multilevel governance as a global governance challenge: Assumptions, methods, shortcomings and future directions"
 authors:
-- admin
+- jkr
 date: "2017-01-01T00:00:00Z"
 doi: "10.1093/acrefore/9780190228637.013.558"
 

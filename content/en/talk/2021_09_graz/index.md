@@ -9,7 +9,7 @@ address:
   street: Merangasse 70
 all_day: true
 authors:
-- admin
+- jkr
 date: "2021-09-23T12:00:00Z"
 date_end: "2021-09-25T14:00:00Z"
 event:  Criticism and Commitment in Social Work

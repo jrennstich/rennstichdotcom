@@ -1,7 +1,7 @@
 ---
 title: "Multilevel global governance: Assumptions, methods, shortcomings and future directions [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2017-02-22T00:00:00Z"
 date_end: "2017-02-25T00:00:00Z"
 doi: ""

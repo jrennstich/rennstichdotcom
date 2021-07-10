@@ -1,7 +1,7 @@
 ---
 title: "The future of hegemony and global system leadership"
 authors:
-- admin
+- jkr
 date: "2005-01-01T00:00:00Z"
 doi: ""
 
@@ -15,7 +15,7 @@ publishDate: "2005-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In M. Herkenrath, C. König, H. Scholtz, & T. Volken (Eds.), *The future of world society* (pp. 53–79). Intelligent"
+publication: "In M. Herkenrath, C. König, H. Scholtz, & T. Volken (Hrsg.), *The future of world society* (S. 53–79). Intelligent"
 publication_short: ""
 
 abstract: "The latest resurgence of interest in the concept of hegemony and empire - both in the popular and academic realm - has been mostly the result of a change in perception of power, specifically its sources, application, and distribution. Here we argue, that this can largely be explained as the result of the dynamic changes inherent in the process of global system formation. After a brief discussion of prevalent concepts of political and economic hegemony, this work offers an evolutionary perspective to place current changes of power and its distribution in the dynamic long-term development of global system formation. It then presents alternative visions of the future development of political and economic hegemony. It concludes that a further rise in instability of global political power distribution accompanied by a likely challenge to existing distributional patterns has a high probability of occurrence."

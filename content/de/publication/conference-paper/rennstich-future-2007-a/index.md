@@ -1,7 +1,7 @@
 ---
 title: "Future's future: a test of models of systemic transition [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2007-05-11T00:00:00Z"
 date_end: "2007-05-13T00:00:00Z"
 doi: ""

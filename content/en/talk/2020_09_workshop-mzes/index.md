@@ -9,7 +9,7 @@ address:
   street: A5, 6 (section A)
 all_day: true
 authors:
-- admin
+  - jkr
 date: "2020-09-24T12:00:00Z"
 date_end: "2020-09-25T14:00:00Z"
 event: Workshop - Teaching Replication in the Social Sciences

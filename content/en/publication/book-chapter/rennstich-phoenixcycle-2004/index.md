@@ -1,7 +1,7 @@
 ---
 title: "The Phoenix-cycle: global leadership transition in a long-wave perspective"
 authors:
-- admin
+- jkr
 date: "2004-01-01T00:00:00Z"
 doi: ""
 
@@ -15,7 +15,7 @@ publishDate: "2004-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In T. E. Reifer (Ed.), *Globalization, hegemony and power: Antisystemic movements and the global system* (pp. 35–53). Paradigm"
+publication: "In T. E. Reifer (Hrsg.), *Globalization, hegemony and power: Antisystemic movements and the global system* (S. 35–53). Paradigm"
 publication_short: ""
 
 abstract: "It has been argued that one of the reoccurring phenomenon of hegemonic transitions is the inability of the existing leader to establish a similar leadership position in a newly emerging and structurally different commercial and organizational arrangement. This shift in the geographical and political location of power has been explained as the outcome of the leader's experience of success in the current setting, creating an entrenched institutional setting (in a broader sense) that proves adaptive in defending its turf but less so in fostering the rise of new leading sectors. However, the case of Britain's continued leadership over an extended period of time (and separate long waves) has shown that this is not always the case. This paper introduces the concept of internal and external global network environments in the world-system and argues that the extension of leadership from an old to a new commercial and organizational arrangement is dependent on the systemic nature of the world system. A shift from an external to an internal network environment (or vice versa) allows the parallel development and rise of new leading sectors because they pose no threat to the existing institutional setting of the established leading sectors. The emerging new leading sectors do profit from the relative advantages of the current leadership position (in terms of capital, costs, etc.) without the resistance usually encountered from the established leading sectors. The paper develops a systematic account of the shifts from maritime commercial (external network environment) phases, over industrial (internal network environment) phases, to the rise of a digital commercial (external network environment) phase. It concludes that the shift from an industrial phase to the new digital commercial phase puts the current systemic leader, the United States, in a position of continued leadership over the next long-wave of world-system development."

@@ -9,7 +9,7 @@ address:
   street: Lehmkuhlenbusch 4
 all_day: true
 authors:
-- admin
+  - jkr
 date: "2019-09-12T00:00:00Z"
 date_end: "2019-09-14T00:00:00Z"
 event: "MVE Tagung Darwinische Evolutionswissenschaften und Kultur- und Sozialwissenschaften - Streiten sie noch? Oder lernen sie schon (voneinander)?"

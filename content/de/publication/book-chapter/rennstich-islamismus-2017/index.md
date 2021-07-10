@@ -1,7 +1,7 @@
 ---
 title: "Islamismus als politisch-soziologisches Phänomen"
 authors:
-- admin
+- jkr
 date: "2017-01-01T00:00:00Z"
 doi: "10.13109/9783666702266.11"
 

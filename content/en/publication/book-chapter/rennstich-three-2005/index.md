@@ -1,7 +1,7 @@
 ---
 title: "Three steps in the globalization of the international system: global networks from 1000 BCE to 2053 CE"
 authors:
-- admin
+- jkr
 date: "2005-01-01T00:00:00Z"
 doi: "10.4324/9780203799475"
 
@@ -15,7 +15,7 @@ publishDate: "2005-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In B. K. Gills & W. R. Thompson (Eds.), *Globalization and Global History* (pp. 203–231). Routledge"
+publication: "In B. K. Gills & W. R. Thompson (Hrsg.), *Globalization and Global History* (S. 203–231). Routledge"
 publication_short: ""
 
 abstract: "This chapter employs a new, world historically based and interdisciplinary framework for the study of global system development, the extended evolutionary world politics (EWP) frame work. It uses the EWP framework to study current transitions and the development of a `post-Fordist' or new global socio-economic system as an evolutionary process with a special focus on the world city system development. It argues that the rise of the Phoenician maritime commercial system provided an important nucleus for the evolution of a global maritime-based external network system, which is currently transforming into an external network system based on digital communication networks. Combining frameworks of political geography (world city and network analysis) with a long-term oriented IR framework, further evidence is provided for the emergence of an informational network economy, global in extent, cyclical in occurrence and evolutionary in nature. The focus on networks and the reemergence of global cities as central nodes in the world economy highlight the need to add data beyond the state as the level of analysis for studies of the international system. At the same time, however, it makes evident the need to view these nodes as an embedded part of a state-based international system."

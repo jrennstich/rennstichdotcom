@@ -1,7 +1,7 @@
 ---
 title: "The future of hegemony and global system leadership [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2004-06-23T00:00:00Z"
 date_end: "2004-06-24T00:00:00Z"
 doi: ""

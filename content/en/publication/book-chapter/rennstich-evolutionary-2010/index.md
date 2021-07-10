@@ -1,7 +1,7 @@
 ---
 title: Evolutionary systems theory
 authors:
-- admin
+- jkr
 date: "2010-01-01T00:00:00Z"
 doi: "10.1093/acrefore/9780190846626.013.391"
 
@@ -15,7 +15,7 @@ publishDate: "2010-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In R. A. Denemark & R. Marlin-Bennett (Eds.), *The International Studies Encyclopedia*. Wiley-Blackwell"
+publication: "In R. A. Denemark & R. Marlin-Bennett (Hrsg.), *The International Studies Encyclopedia*. Wiley-Blackwell"
 publication_short: ""
 
 abstract: "Modern evolutionary theory is a powerful tool that helps explain the dynamics of change in living things and why and how this change occurs. It also serves as the intellectual foundation of evolutionary systems theory in international relations. Evolutionary systems theory, as it pertains to international relations, can broadly be placed into two categories: the biobehavioral and the social evolutionary approach. The biobehaviorists believe that the foundations of human behavior allow us to employ evolutionary theory to study social systems. The latter favors the use of evolutionary theory based on the analogous developmental pattern of social systems to those found in the natural world. One of the major advantages of using an evolutionary systems framework as part of a systemic approach to the study of 'international relations' is the ability to fuse multiple approaches into a common model. These approaches might have different foci or be rooted in different scientific traditions. They may aim to combine the insights garnered from evolutionary economics with findings from evolutionary psychologists and the epistemological insights into scientific progress as steered by repeated trial and error elimination procedures. The unifying key is the focus on the behavior of agents as it relates to the environment in which these agents act, and the feedback between behavior and environment."

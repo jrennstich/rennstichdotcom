@@ -1,7 +1,7 @@
 ---
 title: "From commercial to strategic rivalry? Rivalry environments and the nineteenth K-Wave [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2000-07-05T00:00:00Z"
 date_end: "2000-07-07T00:00:00Z"
 doi: ""

@@ -1,7 +1,7 @@
 ---
 title: "World system evolution [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2011-03-16T00:00:00Z"
 date_end: "2011-03-19T00:00:00Z"
 doi: ""

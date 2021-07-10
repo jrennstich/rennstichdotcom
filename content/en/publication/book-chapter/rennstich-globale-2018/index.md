@@ -1,7 +1,7 @@
 ---
 title: "Globale Dimensionen der gegenwärtigen Migrationsbewegungen"
 authors:
-- admin
+- jkr
 date: "2018-01-01T00:00:00Z"
 doi: ""
 
@@ -15,8 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In B. Dümling, K. Löchelt, & G. Zimmerman (Eds.), *Christliche Jugendarbeit in der Migrationsgesellschaft. Begegnungen mit kultureller und religiöser Vielfalt* (Vol. 3, pp. 27–49). Neukirchener"
-
+publication: "In B. Dümling, K. Löchelt, & G. Zimmerman (Hrsg.), Christliche Jugendarbeit in der Migrationsgesellschaft. Begegnungen mit kultureller und religiöser Vielfalt (Bd. 3, S. 27–49). Neukirchener"
 publication_short: ""
 
 abstract: Soziologischer und politischer Grundlagen-Beitrag zur Frage der globalen Dimension der gegenwärtigen Migrationsbewegungen.

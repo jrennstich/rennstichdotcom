@@ -1,7 +1,7 @@
 ---
 title: "Global encounters: incorporating global voices into local classrooms [Paper presentation]"
 authors:
-- admin
+- jkr
 - Julian C. Westerhout
 date: "2006-02-18T00:00:00Z"
 date_end: "2006-02-20T00:00:00Z"

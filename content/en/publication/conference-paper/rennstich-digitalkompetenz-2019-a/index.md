@@ -1,7 +1,7 @@
 ---
 title: "Digitalkompetenz und Data Literacy als professionelle Kompetenzen für Soziale Arbeit im Zeitalter des digitalen Kapitalismus: Der Einfluss der Digitalisierung auf Lehre und Ausbildungsprofile in der Sozialen Arbeit [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2019-04-26T00:00:00Z"
 date_end: "2019-04-27T00:00:00Z"
 doi: "10.31235/osf.io/ybf2q"

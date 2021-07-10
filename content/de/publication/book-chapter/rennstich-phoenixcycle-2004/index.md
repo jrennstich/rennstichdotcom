@@ -1,7 +1,7 @@
 ---
 title: "The Phoenix-cycle: global leadership transition in a long-wave perspective"
 authors:
-- admin
+- jkr
 date: "2004-01-01T00:00:00Z"
 doi: ""
 

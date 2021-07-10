@@ -1,7 +1,7 @@
 ---
 title: "A thousand years of networked firms: The evolution of markets and firms in the global system [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2005-03-01T00:00:00Z"
 date_end: "2005-03-05T00:00:00Z"
 doi: ""

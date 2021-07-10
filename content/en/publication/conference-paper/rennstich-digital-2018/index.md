@@ -1,7 +1,7 @@
 ---
 title: "A digital culture? Postindustrialism, values, and digital fitness [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2018-04-04T00:00:00Z"
 date_end: "2018-04-07T00:00:00Z"
 doi: ""

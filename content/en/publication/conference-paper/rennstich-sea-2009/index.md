@@ -1,7 +1,7 @@
 ---
 title: "From sea to space: The evolution of major and great power rivalries [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2009-02-15T00:00:00Z"
 date_end: "2009-02-18T00:00:00Z"
 doi: ""

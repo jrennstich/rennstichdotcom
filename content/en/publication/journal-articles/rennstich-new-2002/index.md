@@ -1,7 +1,7 @@
 ---
 title: "The new economy, the leadership long cycle, and the nineteenth k-wave"
 authors:
-- admin
+- jkr
 date: "2002-03-01T00:00:00Z"
 doi: "10.1080/09692290110101135"
 

@@ -1,7 +1,7 @@
 ---
 title: "Globalization and the Evolution of the Informational Network Economy: Past, Present, and Future Technological Change"
 authors:
-- admin
+- jkr
 date: "2003-12-01T00:00:00Z"
 doi: ""
 

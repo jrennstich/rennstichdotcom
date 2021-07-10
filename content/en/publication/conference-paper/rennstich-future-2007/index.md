@@ -1,7 +1,7 @@
 ---
 title: "A future foretold? Multinational firms and leading sector development—Past, present, and future [Paper presentation]"
 authors:
-- admin
+- jkr
 date: "2007-02-28T00:00:00Z"
 date_end: "2007-03-03T00:00:00Z"
 doi: ""
