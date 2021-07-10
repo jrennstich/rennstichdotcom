@@ -3,14 +3,13 @@ title: JASP/JAGS Workshop
 subtitle: JASP/JAGS workshop for social scientists in Amsterdam, The Netherlands (22--30 Aug 2019)
 summary: 2019 workshop on statistical modeling (with JASP and R+JAGS)
 authors:
-- jkr
-
+  - jkr
 tags:
-- workshop
-- conference
-- abm
+  - workshop
+  - conference
+  - abm
 categories:
-- conference
+  - conference
 date: "2019-09-01T00:00:00Z"
 lastmod: "2019-09-17T00:00:00Z"
 featured: false
