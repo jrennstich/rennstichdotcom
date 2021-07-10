@@ -93,9 +93,9 @@ social:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Prof. Dr. Joachim K. Rennstich ist ein Experte in den Bereichen langzeitliche Globalisierung, Digitalisierung und empirische Forschungsmethoden. Im Zentrum seiner Forschung stehen der digitale Kapitalismus, die evolutionäre Entwicklung von Globalisierungsprozessen und der Einfluss von Technologien auf soziale Systeme. Er verbindet nahezu zwei Jahrzehnte Erfahrung sowohl innerhalb als auch ausserhalb des Hochschulbetriebs. Geboren und aufgewachsen in Asien, verbrachte er seine Jugend in Süd- und Norddeutschland und studierte, lehrte und lebte während der ersten Dekade des 21. Jahrhunderts in den USA. Seit 2014 hat Rennstich die Professur Internationale Soziale Arbeit und Empirische Forschungsmethoden in Kassel inne.
