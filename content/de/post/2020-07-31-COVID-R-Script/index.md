@@ -3,7 +3,7 @@ title: RKI Nowcast Data R-script
 subtitle: R-script zur Berechnung und graphischen Darstellung der aktuellen Covid-19 R-Werte basierend auf dem RKI Nowcast Datensatz
 summary: Ich habe die Scripts des RKI zur Berechnung des aktuellen R-Wertes erweitert, damit auch Personen mit geringen R Kenntnissen diese problemlos laufen lassen und sich Daten herunterladen und die Plots entsprechend selber erstellen können. Es gibt eine englische und deutsche Version.
 authors:
-- admin
+- jkr
 tags:
 - r
 - methodology

@@ -3,7 +3,7 @@ title: Cornell Notes Templates, German Version
 subtitle: German version of Cornell Notes templates, including use description
 summary: German version of Cornell Notes templates, including use description. A PDF version for easy print-out (A4 paaer size) and a MS Word template. Description in German.
 authors:
-- admin
+- jkr
 tags:
 - lecture
 - notes

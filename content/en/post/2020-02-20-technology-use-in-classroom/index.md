@@ -3,7 +3,7 @@ title: Technology policy in the classroom (in German)
 subtitle: Classroom policies for use of laptops, tablets, phones and really all other screens during class (in German) — with a suggested alternative
 summary: Description of development of my classroom policies for technology usage during class (in German). Includes a link to my German version of Cornell Notes templates.
 authors:
-- admin
+- jkr
 tags:
 - lecture
 - notes

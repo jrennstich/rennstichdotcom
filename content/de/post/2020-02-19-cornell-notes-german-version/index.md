@@ -3,14 +3,14 @@ title: Cornell Notiz Vorlagen
 subtitle: Auf Deutsch. Mit Beschreibung. In A4. Als PDF und als MS Word Vorlage.
 summary: Cornell Notiz Vorlagen auf Deutsch, mit Erklärungen zur Nutzung (ebenfalls auf Deutsch). Eine PDF Version zum Ausdruck (A4) und eine MS Word Vorlage zur weiteren Bearbeitung oder Personalisierung.
 authors:
-- admin
+  - jkr
 tags:
-- lecture
-- notes
-- teaching
-- materials
+  - lecture
+  - notes
+  - teaching
+  - materials
 categories:
-- teaching
+  - teaching
 date: "2020-02-19T00:00:00Z"
 lastmod: "2020-02-19T12:00:00Z"
 featured: true

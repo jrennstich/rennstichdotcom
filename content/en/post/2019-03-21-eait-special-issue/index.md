@@ -3,7 +3,7 @@ title: "Creative online collaboration: a special challenge for co-creation"
 subtitle: EAIT Special Section
 summary: EAIT Special Section
 authors:
-- admin
+- jkr
 tags:
   - e-learning
   - collaboration

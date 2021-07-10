@@ -3,17 +3,17 @@ title: E-Portfolio Materialien
 subtitle: Vorlagen (Bewertungsrubrik und Beschreibungen)
 summary: Vorlagen für den Einsatz von E-Portfolios
 authors:
-  - admin
+  - jkr
 tags:
-- teaching
-- oer
-- online
-- e-portfolio
-- materials
-- rubric
-- evaluation
-- digital
-- literacy
+  - teaching
+  - oer
+  - online
+  - e-portfolio
+  - materials
+  - rubric
+  - evaluation
+  - digital
+  - literacy
 categories:
   - e-learning
 date: "2019-04-17T00:00:00Z"

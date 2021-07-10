@@ -3,7 +3,7 @@ title: BEHAVE 2018
 subtitle: ABM workshop for social scientists in Brescia, Italy (3--7 Sep 2018)
 summary: Workshop on agent-based modeling (with NetLogo)
 authors:
-- admin
+- jkr
 tags:
 - workshop
 - conference

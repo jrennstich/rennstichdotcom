@@ -3,7 +3,7 @@ title: HFD-Themenwoche 2018 - Shaping the Digital Turn
 subtitle: Fishbowl, including my participation
 summary:  Fishbowl participation as part of the HFD-Themenwoche 2018 in Berlin.
 authors:
-  - admin
+  - jkr
 tags:
   - digital
   - literacy

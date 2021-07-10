@@ -3,14 +3,14 @@ title: Laptop/Tablet/Handy Regeln
 subtitle: Regeln zur Nutzung von digitalen Geräten während der Vorlesung - mit Alternativvorschlägen
 summary: Nutzungsregeln von Laptops, Smartphones und anderen Screens im Unterricht (Vorlesung/Seminar). Enthält auch Links zu meinen deutschen Vorlagen zur Nutzung des Cornell Notizsystems.
 authors:
-- admin
+  - jkr
 tags:
-- lecture
-- notes
-- teaching
-- materials
+  - lecture
+  - notes
+  - teaching
+  - materials
 categories:
-- teaching
+  - teaching
 date: "2020-02-20T00:00:00Z"
 lastmod: "2020-02-20T12:00:00Z"
 featured: false

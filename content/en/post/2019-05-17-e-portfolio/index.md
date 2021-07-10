@@ -3,7 +3,7 @@ title: E-Portfolio materials
 subtitle: Templates for setting up an e-portfolio
 summary: Templates for setting up an e-portfolio
 authors:
-- admin
+- jkr
 tags:
   - teaching
   - oer
