@@ -4,13 +4,13 @@ title: Joachim K. Rennstich
 
 # Username (this should match the folder name)
 authors:
-- jrennstich
+- jkr
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor International Social Work and Research Methods
+role: Professur Internationale Soziale Arbeit und Empirische Forschungsmethoden
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +18,17 @@ organizations:
   url: "https://www.cvjm-hochschule.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the development of digital capitalism, digital literacy and teaching-methodologies.
+bio: Mein Forschungsfokus umfasst die langzeitliche Entwicklung hin zum digitalen Kapitalismus, Digital Literacy und innovative Lehrmethoden.
 
 interests:
-- Long-term Globalization
-- Digital Capitalism
-- International Development
-- Technology
-- Digitalization
+- Langzeitliche Globalisierung
+- Digitaler Kapitalismus
+- Internationale Entwicklung/EZ
+- Technologie
+- Digitalisierung
 - Future Skills
 - Digital Literacy
-- Innovative Teaching Methods
+- Innovative Lehrmethoden
 
 education:
   courses:
@@ -55,7 +55,7 @@ social:
   link: https://twitter.com/digprof
 - icon: cv
   icon_pack: ai
-  link: 'files/cv.pdf'
+  link: 'files/cv_de.pdf'
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0577-7460
@@ -98,8 +98,8 @@ social:
 #- Visitors
 ---
 
-Prof. Dr. Joachim K. Rennstich is an expert in the areas of long-term globalization, international social work, and research methods. His research focuses on digital capitalism, the evolutionary development of globalization processes and the impact of technology on social systems and has published widely on these and other topics, combining nearly two decades of experience both inside and outside of academia. He was born and grew up in Asia, spent his youth in both, southern and northern Germany, and studied, worked, and lived in the United States throughout the first decade of the 2000s. Rennstich currently holds the International Social Work and Research Methods professorship at the CVJM-Hochschule in Kassel, Germany.
+Prof. Dr. Joachim K. Rennstich ist ein Experte in den Bereichen langzeitliche Globalisierung, Digitalisierung und empirische Forschungsmethoden. Im Zentrum seiner Forschung stehen der digitale Kapitalismus, die evolutionäre Entwicklung von Globalisierungsprozessen und der Einfluss von Technologien auf soziale Systeme. Er verbindet nahezu zwei Jahrzehnte Erfahrung sowohl innerhalb als auch ausserhalb des Hochschulbetriebs. Geboren und aufgewachsen in Asien, verbrachte er seine Jugend in Süd- und Norddeutschland und studierte, lehrte und lebte während der ersten Dekade des 21. Jahrhunderts in den USA. Seit 2014 hat Rennstich die Professur Internationale Soziale Arbeit und Empirische Forschungsmethoden in Kassel inne.
 
-Outside of school, you can find him roaming the woods and fields in the rolling hills of North Hessia with his dog, Lizzy, capturing the world on his iPhone or enjoying the arts.
+Außerhalb der Hochschule findet man ihn mit seinem Hund Lizzy wandernd und jagend im Nordhessischen Mittelgebirge, die Welt mit seinem iPhone fotografieren und filmen oder bei Ausstellungen und Konzerten die schönen Künste genießen.
 
-{{% staticref "files/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+{{% staticref "files/cv_de.pdf" "newtab" %}}Download CV{{% /staticref %}}
