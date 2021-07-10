@@ -4,7 +4,7 @@ title: Joachim K. Rennstich
 
 # Username (this should match the folder name)
 authors:
-- admin
+- jrennstich
 
 # Is this the primary user of the site?
 superuser: true
@@ -70,7 +70,7 @@ social:
   link: https://scholar.google.de/citations?hl=en&user=lGlex5EAAAAJ
 - icon: osf
   icon_pack: ai
-  link: https://osf.io/acw2h 
+  link: https://osf.io/acw2h
 - icon: github
   icon_pack: ai
   link: https://github.com/jrennstich
