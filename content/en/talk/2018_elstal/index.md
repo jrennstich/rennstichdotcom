@@ -9,7 +9,7 @@ address:
   street: Eduard-Scheve-Allee 3a
 all_day: true
 authors:
-- admin
+  - jkr
 date: "2018-02-21T09:00:00Z"
 date_end: ""
 event: Hochschuldidaktische Fortbildung, Freikirchliche Dozierendentagung Elstal

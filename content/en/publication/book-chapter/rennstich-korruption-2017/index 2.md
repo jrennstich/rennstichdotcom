@@ -1,7 +1,7 @@
 ---
 title: "Korruption im Spiegel der Weltreligionen: Entwicklungspolitische Bedeutung eines moralisch-theologischen Urproblems"
 authors:
-- jkr
+- admin
 - Karl W. Rennstich
 date: "2017-01-01T00:00:00Z"
 doi: "10.14220/9783737006835.179"
