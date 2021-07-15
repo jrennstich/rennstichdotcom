@@ -4,7 +4,7 @@
 # options there, too, so they apply to any blogdown projects. Feel free to
 # ignore this part if it sounds too complicated to you.
 if (file.exists("~/.Rprofile")) {
-  base::sys.source("~/.Rprofile", envir = environment())
+  base::sys.source("~/.Rprofile", envir = environmencheckt())
 }
 
 # Now set options to customize the behavior of blogdown for this project. Below

@@ -16,7 +16,7 @@ event: Fachkonferenz - Digitalisierung und Soziale Arbeit - Transformationen, Be
 event_url: https://www.fernuni-hagen.de/universitaet/veranstaltungen/ver-2020-10-22-digitalisierung-und-soziale-arbeit.shtml
 featured: true
 image:
-  caption: 'Image credit: announcemnt screenshot'
+  caption: 'Image credit: announcement screenshot'
   focal_point: Smart
 links:
 - icon: twitter
@@ -43,4 +43,5 @@ header:
   image: "auditorium-benches-board-wide.jpg"
   caption: ""
 ---
-The paper of this talk will be published as part of an edited volume in 2021.
+
+Eine ausführliche schriftliche Version des Beitrags erscheint im Rahmen eines Sammelbandes Mitte 2021.

@@ -67,5 +67,5 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Entdecken Sie relevante Inhalte durch [den Filter]({{< ref "/publication/_index.md" >}}).
 {{% /callout %}}
