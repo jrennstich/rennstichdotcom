@@ -21,7 +21,7 @@ publication_short: ""
 abstract: "Der Beitrag befasst sich direkt mit den wesentlichen Entwicklungen für die im Konzept des Buches erläuterten Herausforderungen als Folge der Digitalisierung für Pädagogik und Soziale Arbeit. Der Fokus liegt dabei auf der gestiegenen Bedeutung von Information und Daten als besondere Formen der Kodifizierung von Normen und Eröffnung, bzw. Beschränkung von gesellschaftlicher und sozialer Handlungsoptionen als Folge der Digitalisierung. Er stellt zum einen die dafür notwendigen methodischen und analytischen Kompetenzen vor. Zum anderen wird aber auch die Notwendigkeit der aktiven Weiterbildung und Erweiterung des Kompetenzprofils der Lehrvermittelnden angesprochen. Dies geschieht im Text auf Grundlage einer vorgeschalteten Diskussion der Beschreibung der transformativen Prozesse mit Hilfe des Ansatzes des digitalen Kapitalismus, der technologisch mitbedingte und damit verbundene soziale, normative und gesellschaftlicheVeränderungen in einem erweiterten analytischen Paradigma erfasst und in vorgeschaltete Entwicklungen einzubetten vermag."
 
 # Summary. An optional shortened abstract.
-summary:
+summary: Der Fokus des Beitrags liegt auf der gestiegenen Bedeutung von Information und Daten als besondere Formen der Kodifizierung von Normen und Eröffnung, bzw. Beschränkung von gesellschaftlicher und sozialer Handlungsoptionen als Folge der Digitalisierung. Er stellt zum einen die dafür notwendigen methodischen und analytischen Kompetenzen vor. Zum anderen wird aber auch die Notwendigkeit der aktiven Weiterbildung und Erweiterung des Kompetenzprofils der Lehrvermittelnden angesprochen.
 
 tags:
 - competencies

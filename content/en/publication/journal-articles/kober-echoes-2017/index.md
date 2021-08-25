@@ -10,7 +10,7 @@ doi: "10.1177/0276236617731734"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-12-01T00:00:00Z"
 
-featured: false
+featured: 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,10 +22,10 @@ publication_types: ["2"]
 publication: "*Imagination, Cognition and Personality*, 37(2), 224–243"
 publication_short: ""
 
-abstract: "Narrative identity is not only based on the personal past, but also informed by one’s historical and political past. Beside the fact that this has been shown mostly in Western samples, it is unknown how placing personal narratives within the context of an ethnic and political heritage relates to other cognitive processes, such as social attitudes. Therefore this study explores narratives about encounters with Europeans in a Congolese sample to study the impact of their meaning on their social distance attitudes towards Europeans. Separate hierarchical regression models revealed that social distance is predicted by closure and redemption, and by the perceived heterogeneity of whiteness, but not by contamination. Yet, narratives with both low levels of closure and contamination predict greater social distance. Surprisingly, commitment to own ethnic identity was not found to be a significant predictor. Results are discussed in terms of narrative identity, historical memories, and social cognition."
+abstract: Narrative identity is not only based on the personal past, but also informed by one’s historical and political past. Beside the fact that this has been shown mostly in Western samples, it is unknown how placing personal narratives within the context of an ethnic and political heritage relates to other cognitive processes, such as social attitudes. Therefore this study explores narratives about encounters with Europeans in a Congolese sample to study the impact of their meaning on their social distance attitudes towards Europeans. Separate hierarchical regression models revealed that social distance is predicted by closure and redemption, and by the perceived heterogeneity of whiteness, but not by contamination. Yet, narratives with both low levels of closure and contamination predict greater social distance. Surprisingly, commitment to own ethnic identity was not found to be a significant predictor. Results are discussed in terms of narrative identity, historical memories, and social cognition.
 
 # Summary. An optional shortened abstract.
-summary:
+summary: This study explores narratives about encounters with Europeans in a Congolese sample to study the impact of their meaning on their social distance attitudes towards Europeans. Separate hierarchical regression models revealed that social distance is predicted by closure and redemption, and by the perceived heterogeneity of whiteness, but not by contamination. Yet, narratives with both low levels of closure and contamination predict greater social distance. Surprisingly, commitment to own ethnic identity was not found to be a significant predictor.
 
 tags:
 - africa

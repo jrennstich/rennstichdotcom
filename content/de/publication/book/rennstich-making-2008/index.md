@@ -32,7 +32,7 @@ tags:
 - globalization
 - technology
 - theory
-featured: true
+featured: 
 
 links:
 url_pdf: ''

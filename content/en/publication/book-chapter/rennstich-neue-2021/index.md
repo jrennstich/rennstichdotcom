@@ -3,7 +3,8 @@ title: "Neue Tricks für alte Hunde? Digitalisierung als Herausforderung in Lehr
 authors:
 - jkr
 date: "2021-06-01T00:00:00Z"
-# doi: "10.1093/acrefore/9780190846626.013.431"
+doi: "10.25656/01:23170"
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-11-30T00:00:00Z"
@@ -15,7 +16,7 @@ publishDate: "2020-11-30T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In M. Wunder (Hrsg.), *Digitalisierung und Soziale Arbeit – Transformationen, Beharrungen, Herausforderungen.* Klinkhardt-Verlag"
+publication: "In M. Wunder (Hrsg.), *Digitalisierung und Soziale Arbeit – Transformationen, Beharrungen, Herausforderungen* (pp. 201-213). Klinkhardt-Verlag"
 publication_short: ""
 
 abstract: "Die steigenden Kompetenzanforderungen in professionellen Kontexten Sozialer Berufe stellt auch eine zunehmende Herausforderungen an Ausbildungsprofile und Lehre dar. Die alle Lebensbereiche verändernde Informatisierung sowie der Trend zu Digitalisierung vieler administrativer Prozesse, aber auch verstärkt in der interpersonalen Interaktion, manifestiert die Notwendigkeit des Erwerbs neuer Kompetenzen zur Ausbildung einer umfassenden Digitalen und Data Literacy, also dem verständigen Umgang mit Daten und deren Interpretation und anderer Digitalkompetenzen. Gerade in Sozialen Berufen ist es jedoch wichtig, Datenermittlung und -interpretation als umfassendes Konzept zu vermitteln. Diese Aufgabe stellt zum einen eine besondere Herausforderung an die Ausbildungsprofile der Hochschulen dar, zum anderen jedoch auch an die eigenen Kompetenzen Lehrender, sowie des wissenschaftlichen Nachwuchses. Dieser Beitrag stellt zuerst Optionen der Anpassung der Ausbildungsprofile Sozialer Berufe vor. Im nächsten Schritt werden dann die dafür notwendigen Kompetenzprofile der Wissensvermittelnden, sowie Voraussetzungen für eine erfolgreiche Kompetenzvermittlung in der Lehre kritisch beleuchtet. Dabei stehen veränderte methodische Kenntnisse, die Bewältigung ethischer Fragestellungen und immer zentraler die kritischer Reflexionskompetenz in einer von Digitalisierung veränderten sozialen Wirklichkeit und vom digitalen Kapitalismus geprägten gesellschaftlichen Gesamtkontext im Vordergrund."
@@ -35,7 +36,7 @@ featured: true
 links:
 # - name: Custom Link
 #  url:
-url_pdf: 'Rennstich_2021_NeueTricks_submitted_draft.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -47,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: screen shot, all rights reserved.'
+  caption: 'Image credit: Book cover, designed by Miriam Tölgyesi, all rights reserved by publisher.'
   focal_point: ""
   preview_only: false
 
