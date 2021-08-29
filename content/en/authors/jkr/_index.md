@@ -100,6 +100,6 @@ social:
 
 Prof. Dr. Joachim K. Rennstich is an expert in the areas of long-term globalization, international social work, and research methods. His research focuses on digital capitalism, the evolutionary development of globalization processes and the impact of technology on social systems and has published widely on these and other topics, combining nearly two decades of experience both inside and outside of academia. He was born and grew up in Asia, spent his youth in both, southern and northern Germany, and studied, worked, and lived in the United States throughout the first decade of the 2000s. Rennstich currently holds the International Social Work and Research Methods professorship at the CVJM-Hochschule in Kassel, Germany.
 
-Outside of school, you can find him roaming the woods and fields in the rolling hills of North Hessia, capturing the world on his iPhone and Fuji X-4 or enjoying the arts.
+Outside of school, you can find him roaming the woods and fields in the rolling hills of North Hessia, capturing the world on his iPhone and Fuji X-E4 or enjoying the arts.
 
 {{% staticref "files/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
