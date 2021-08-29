@@ -100,6 +100,6 @@ social:
 
 Prof. Dr. Joachim K. Rennstich ist ein Experte in den Bereichen langzeitliche Globalisierung, Digitalisierung und empirische Forschungsmethoden. Im Zentrum seiner Forschung stehen der digitale Kapitalismus, die evolutionäre Entwicklung von Globalisierungsprozessen und der Einfluss von Technologien auf soziale Systeme. Er verbindet nahezu zwei Jahrzehnte Erfahrung sowohl innerhalb als auch ausserhalb des Hochschulbetriebs. Geboren und aufgewachsen in Asien, verbrachte er seine Jugend in Süd- und Norddeutschland und studierte, lehrte und lebte während der ersten Dekade des 21. Jahrhunderts in den USA. Seit 2014 hat Rennstich die Professur Internationale Soziale Arbeit und Empirische Forschungsmethoden in Kassel inne.
 
-Außerhalb der Hochschule findet man ihn mit seinem Hund Lizzy wandernd und jagend im Nordhessischen Mittelgebirge, die Welt mit seinem iPhone fotografieren und filmen oder bei Ausstellungen und Konzerten die schönen Künste genießen.
+Außerhalb der Hochschule findet man ihn wandernd und jagend im Nordhessischen Mittelgebirge, die Welt mit seinem iPhone und seiner Fuji X-4 fotografieren und filmen oder bei Ausstellungen und Konzerten die schönen Künste genießen.
 
 {{% staticref "files/cv_de.pdf" "newtab" %}}Download CV{{% /staticref %}}
