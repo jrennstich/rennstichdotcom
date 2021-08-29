@@ -1,5 +1,5 @@
 ---
-title: Lizzy (2008-2021)
+title: Lizzy (2007-2021)
 subtitle: Frage doch das Vieh, das wird dich’s lehren
 summary: Nach 14 Jahren ist mein Hund Lizzy gestorben am 28. August 2021.
 authors:

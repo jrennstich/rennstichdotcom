@@ -1,5 +1,5 @@
 ---
-title: Lizzy (2008-2021)
+title: Lizzy (2007-2021)
 subtitle: But ask now the beast, and they shall teach thee
 summary: After 14 years, my dog Lizzy has passed away on 28 Aug 2021.
 authors:
