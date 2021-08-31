@@ -15,7 +15,7 @@ publishDate: "2020-11-30T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "T. Damberger, I. Schell-Kiehl, & J. Wahl (Hrsg.), *Pädagogik, Soziale Arbeit und Digitalität*. Beltz Juventa"
+publication: "T. Damberger, I. Schell-Kiehl, & J. Wahl (Hrsg.), *Pädagogik, Soziale Arbeit und Digitalität* (S. 27-38). Beltz Juventa"
 publication_short: ""
 
 abstract: "Der Beitrag befasst sich direkt mit den wesentlichen Entwicklungen für die im Konzept des Buches erläuterten Herausforderungen als Folge der Digitalisierung für Pädagogik und Soziale Arbeit. Der Fokus liegt dabei auf der gestiegenen Bedeutung von Information und Daten als besondere Formen der Kodifizierung von Normen und Eröffnung, bzw. Beschränkung von gesellschaftlicher und sozialer Handlungsoptionen als Folge der Digitalisierung. Er stellt zum einen die dafür notwendigen methodischen und analytischen Kompetenzen vor. Zum anderen wird aber auch die Notwendigkeit der aktiven Weiterbildung und Erweiterung des Kompetenzprofils der Lehrvermittelnden angesprochen. Dies geschieht im Text auf Grundlage einer vorgeschalteten Diskussion der Beschreibung der transformativen Prozesse mit Hilfe des Ansatzes des digitalen Kapitalismus, der technologisch mitbedingte und damit verbundene soziale, normative und gesellschaftlicheVeränderungen in einem erweiterten analytischen Paradigma erfasst und in vorgeschaltete Entwicklungen einzubetten vermag."
@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: screen shot, all rights reserved.'
+  caption: 'Image credit: book cover, all rights reserved.'
   focal_point: ""
   preview_only: false
 

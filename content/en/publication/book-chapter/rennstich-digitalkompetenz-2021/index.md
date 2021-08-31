@@ -15,13 +15,13 @@ publishDate: "2020-11-30T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "T. Damberger, I. Schell-Kiehl, & J. Wahl (Hrsg.), *Pädagogik, Soziale Arbeit und Digitalität*. Beltz Juventa"
+publication: "T. Damberger, I. Schell-Kiehl, & J. Wahl (Hrsg.), *Pädagogik, Soziale Arbeit und Digitalität* (pp. 27-38). Beltz Juventa"
 publication_short: ""
 
-abstract: "Der Beitrag befasst sich direkt mit den wesentlichen Entwicklungen für die im Konzept des Buches erläuterten Herausforderungen als Folge der Digitalisierung für Pädagogik und Soziale Arbeit. Der Fokus liegt dabei auf der gestiegenen Bedeutung von Information und Daten als besondere Formen der Kodifizierung von Normen und Eröffnung, bzw. Beschränkung von gesellschaftlicher und sozialer Handlungsoptionen als Folge der Digitalisierung. Er stellt zum einen die dafür notwendigen methodischen und analytischen Kompetenzen vor. Zum anderen wird aber auch die Notwendigkeit der aktiven Weiterbildung und Erweiterung des Kompetenzprofils der Lehrvermittelnden angesprochen. Dies geschieht im Text auf Grundlage einer vorgeschalteten Diskussion der Beschreibung der transformativen Prozesse mit Hilfe des Ansatzes des digitalen Kapitalismus, der technologisch mitbedingte und damit verbundene soziale, normative und gesellschaftlicheVeränderungen in einem erweiterten analytischen Paradigma erfasst und in vorgeschaltete Entwicklungen einzubetten vermag."
+abstract: "Informationalization and digitalization are transformative processes that require new sets of literacies, competences, and skills for active participation in and analysis of modern societies. This, however, requires changes in the methodological knowledge and thus training of students as well as teachers themselves. The ability for critical reflection of ethical challenges in combination with an extended set of knowledge about data creation, storage and codification become central issues in an increasingly complex societal structure based on digital capitalism."
 
 # Summary. An optional shortened abstract.
-summary: Der Fokus des Beitrags liegt auf der gestiegenen Bedeutung von Information und Daten als besondere Formen der Kodifizierung von Normen und Eröffnung, bzw. Beschränkung von gesellschaftlicher und sozialer Handlungsoptionen als Folge der Digitalisierung. Er stellt zum einen die dafür notwendigen methodischen und analytischen Kompetenzen vor. Zum anderen wird aber auch die Notwendigkeit der aktiven Weiterbildung und Erweiterung des Kompetenzprofils der Lehrvermittelnden angesprochen.
+summary: Focuses on impacts of informationalization and digitalization as transformative processes requiring new sets of literacies, competences, and skills for active participation in and analysis of modern societies.
 
 tags:
 - competencies
