@@ -44,7 +44,7 @@ links:
   name: Follow
   url: https://twitter.com/digprof
 url_code: ""
-url_pdf: ""
+url_pdf: "/files/Slides-Trust_but_Verify-Graz_23_Sep_21.pdf"
 url_slides: ""
 url_video: ""
 
