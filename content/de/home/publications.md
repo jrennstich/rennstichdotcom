@@ -1,3 +1,6 @@
+title: ''
+author: ''
+date: '2021-10-20'
 +++
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
@@ -67,5 +70,5 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-Entdecken Sie relevante Inhalte durch [den Filter]({{< ref "/publication/_index.md" >}}).
+Finden Sie relevante Publikationen direkt durch [den Filter]({{< ref "/publication/_index.md" >}}).
 {{% /callout %}}
