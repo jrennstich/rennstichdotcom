@@ -1,6 +1,4 @@
-title: ''
-author: ''
-date: '2021-10-20'
+
 +++
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
