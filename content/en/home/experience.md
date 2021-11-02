@@ -33,6 +33,16 @@ date_format = "Jan 2006"
   * Internationalization
   * Moodle Learning Platform
   """
+
+[[experience]]
+  title = "Team Member"
+  company = "Zentralbereich Theologie, Wertekommunikation und Persönlichkeitsbildung"
+  company_url = "https://www.cjd-twp.de/ueber-uns/"
+  location = "Eppingen, Germany"
+  date_start = "2021-03-01"
+  date_end = "2021-10-31"
+  description = ""
+
 [[experience]]
   title = "Director of Studies"
   company = "Christlich-Pädagogisches Institut"
