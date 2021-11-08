@@ -12,7 +12,7 @@ categories:
   - methodology
 date: "2020-07-31T00:00:00Z"
 lastmod: "2020-07-31T12:00:00Z"
-featured: true
+featured: false
 draft: false
 
 # Featured image
