@@ -44,8 +44,8 @@ links:
   name: Follow
   url: https://twitter.com/digprof
 url_code: ""
-url_pdf: "/files/HAW-HH_Keynote_15NOV21.pdf"
-url_slides: ""
+url_pdf: ""
+url_slides: "/files/HAW-HH_Keynote_15NOV21.pdf"
 url_video: ""
 
 header:
