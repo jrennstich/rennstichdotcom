@@ -1,6 +1,6 @@
 ---
 title: "Unmaking of a digital world? Major power rivalry and global system evolution"
-event:  "5th European Conference on Technology Assessment - Digital Future(s): TA in and for a changing world"
+event:  "5th European Conference on Technology Assessment - Digital Future(s): TA in and for a changing world [POSTPONED TO SUMMER]"
 event_url: https://karlsruhe2022.technology-assessment.info/
 
 # Draft status (true/false)
@@ -22,8 +22,8 @@ abstract: |
 
 # Talk start and end times
 # End time can optionally be hidden by prefixing this line with '#'
-date: "2022-03-20T00:00:00Z"
-date_end: "2022-03-23T00:00:00Z"
+date: "2022-07-20T00:00:00Z"
+date_end: "2022-07-23T00:00:00Z"
 all_day: true
 
 authors: [jkr]
@@ -67,4 +67,5 @@ slides: ""
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-Keynote (Online)
+
+Due to You-Know-Who the conference has been postponed to the summer. Which, given the location, isn't all too bad news ;-)
