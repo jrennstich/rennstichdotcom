@@ -68,4 +68,4 @@ slides: ""
 projects: []
 ---
 
-Due to You-Know-Who the conference has been postponed to the summer. Was, angesichts der Lokalität jetzt nicht die schlimmste Nachricht ist ;-)
+Due to You-Know-Who the conference has been postponed to the summer. Was, angesichts der Lokalität, jetzt nicht die schlimmste Nachricht ist ;-)
