@@ -1,13 +1,13 @@
 ---
-title: Daten-Ethik-Praxis (book project)
-summary: Textbook with additional interactive digital/blended-learning units for integration into LMS systems.
+title: Daten-Ethik-Praxis (Lehrbuchprojekt mit Vera Taube)
+summary: Lehrbuch mit zusätzlichen interaktiven digital/blended-learning Lerneinheiten zur Integration in gängige Lern-Management Systeme (LMS).
 date: "2020-06-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page). Just type `external_link` in the text.
 external_link: 
 
 image:
-  caption: 
+  caption: Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/s/photos/code-screen-digital?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   focal_point: Smart
 links:
 - icon: twitter
@@ -33,15 +33,21 @@ url_video: ""
 
 ---
 
-## Textbook Project
+## Lehrbuch Projekt
 
-Textbook with additional interactive digital/blended-learning units for integration into LMS systems. Based on case-vignettes connecting the covered theoretical material to realistic scenarios found in varied workplace and educational settings, the book helps learners to gain and assess their mastery of critical ethical digital and data literacy competences. Instructors benefit from the availability of regularly updated study-material that can easily be imported into any LMS system such as Moodle, Canvas, or ILIAS.
+Dieses Lehrbuch (mit digitalen Blended/E-Learning Lerneinheiten) vermittelt praxisbezogene Data-Literacy, also Kompetenzen im kritischen Umgang mit Daten und damit verbundenen ethischen Herausforderungen in einem zunehmend datifizierten Gesellschaftskontext. Das Buch fokussiert auf die Kompetenzvermittlung in den Bereichen Fachwissen, Methoden, Sozial- und Selbstkompetenzen bezogen auf die Rolle von und verantwortlichem Umgang mit Daten in professionalisierten Kontexten. 
 
-## Project Goals
+Zielgruppen sind BA/MA Studierende aber auch Teilnehmer*innen an akademisierten Weiterbildungsangeboten. Data-Literacy und Daten-Ethik wird hier nicht aus den “klassischen” fachspezifischen Sichtweisen (Philosophie/Ethik/Recht/Technik etc.) mit einem Schwerpunkt auf Forschung und wissenschaftlichem Dialog betrachtet. Vielmehr vermittelt das Buch durch eine interdisziplinäre und themenzentrierte Herangehensweise zentrale digitale Kompetenzen, um der stetig wachsenden Bedeutung von Daten in vielen professionellen Alltagspraxiskontexten verantwortlich und kritisch-hinterfragend gerecht zu werden. 
 
-- Prepares students for the ethical challenges posed by increasingly datafied work environments.
+## Pojekt Ziele
 
+- Hilft Studierenden kritische Digital-Kompetenzen in einem Praxiskontext zu erlangen.
+- Fokussiert sich auf die sozialen Aspekte der Data-Literacy.
+- Bereitet Studierende vor auf die verschiedenen ethischen Herausforderungen in einer zunehmend datafizierten Arbeits- und Lebenswelt.
+- Stellt didaktisch und empirisch bestätigtes Lehrmaterial und Lernpläne bereit.
+- Bietet Lehrenden auch Unterstützung im Assessment. 
 
-## Project Status
+## Projekt Status
 
-- Exposé
+- Unter Vertrag mit Verlag Barbara Budrich (utm M).
+- Voraussichtliche Erscheinung Herbst 2024.
