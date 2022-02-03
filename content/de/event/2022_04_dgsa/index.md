@@ -15,8 +15,12 @@ address:
   postcode: "65197"
   country: Germany
 
+<<<<<<< HEAD
 summary: |
   Die vielfältigen durch Digitalisierung hervorgerufenen sozialen, ökonomischen und gesamtgesellschaftlichen Transformationen stellen die Soziale Arbeit in Profession und Ausbildung vor große Herausforderungen. Die gelingende Gestaltung lebenslangen Lernens wird dadurch zu einer zentralen Aufgabe. Dieser Beitrag skizziert, wie professionelles Wissen der Sozialen Arbeit mit den Möglichkeiten digitaler Lehr- und Lernvermittlung transparent, bedarfsgerecht und von Hochschulen vermittelt und qualitative Standards in der Vermittlung zeitgemäß dokumentiert werden können.
+=======
+summary: Die vielfältigen durch Digitalisierung hervorgerufenen sozialen, ökonomischen und gesamtgesellschaftlichen Transformationen stellen die Soziale Arbeit in Profession und Ausbildung vor große Herausforderungen. Die gelingende Gestaltung lebenslangen Lernens wird dadurch zu einer zentralen Aufgabe. Dieser Beitrag skizziert, wie professionelles Wissen der Sozialen Arbeit mit den Möglichkeiten digitaler Lehr- und Lernvermittlung transparent, bedarfsgerecht und von Hochschulen vermittelt und qualitative Standards in der Vermittlung zeitgemäß dokumentiert werden können.
+>>>>>>> 128d6dc4c16e7388ce1bffaa2dfdcdfac7cbcbe9
 
 
 abstract: |
@@ -32,7 +36,11 @@ authors: [jkr]
 tags: [social-work, digitalization, digitization, profession, teaching, life-long, learning, higher-education]
 
 # Schedule page publish date (NOT talk date)
+<<<<<<< HEAD
 publishDate: "2022-02-02T00:00:00Z"
+=======
+publishDate: "2021-10-14T00:00:00Z"
+>>>>>>> 128d6dc4c16e7388ce1bffaa2dfdcdfac7cbcbe9
 
 # Is this a featured talk? (true/false)
 featured: true

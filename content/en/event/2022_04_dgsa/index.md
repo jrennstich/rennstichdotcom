@@ -15,8 +15,12 @@ address:
   postcode: "65197"
   country: Germany
 
+<<<<<<< HEAD
 summary: |
   Discusses main challenges and opportunities of academic education as part of life-long learning approaches for social work education and training (in German only).
+=======
+summary: Discusses main challenges and opportunities of academic education as part of life-long learning approaches for social work education and training [in German only].
+>>>>>>> 128d6dc4c16e7388ce1bffaa2dfdcdfac7cbcbe9
 
 
 abstract: |
@@ -32,7 +36,11 @@ authors: [jkr]
 tags: [social-work, digitalization, digitization, profession, teaching, life-long, learning, higher-education]
 
 # Schedule page publish date (NOT talk date)
+<<<<<<< HEAD
 publishDate: "2022-02-02T00:00:00Z"
+=======
+publishDate: "2021-10-14T00:00:00Z"
+>>>>>>> 128d6dc4c16e7388ce1bffaa2dfdcdfac7cbcbe9
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -70,7 +78,11 @@ slides: ""
 projects: []
 ---
 
+<<<<<<< HEAD
 Das Paper wird im Rahmen des [Panels 24](https://www.conftool.net/dgsa2022/index.php?page=browseSessions&form_session=28#paperID194) auf der DGSA2022 vorgestellt. Die anderen Papers lohnen sich noch mehr! 
+=======
+Das Paper wird im Rahmen des [Panels 24](https://www.conftool.net/dgsa2022/index.php?page=browseSessions&form_session=28#paperID194) auf der DGSA2022 vorgestellt. Die anderen Paper lohnen sich noch mehr! 
+>>>>>>> 128d6dc4c16e7388ce1bffaa2dfdcdfac7cbcbe9
 - Tobias Kindler & Thomas Schmid (OST – Ostschweizer Fachhochschule; Hebrew University of Jerusalem): *Drei Semester studieren unter Covid-19-Bedingungen. Eine Längsschnittuntersuchung zu Veränderungen der Studienbedingungen während der Covid-19 Pandemie*
 - Nina Westerholt (Hochschule Niederrhein): *Das Verständnis von „Internationalität“ in Studiengängen der Sozialen Arbeit. Was tragen sozialarbeiterische Wissensbestände zum Diskurs der Hochschulinternationalisierung bei?*
 
