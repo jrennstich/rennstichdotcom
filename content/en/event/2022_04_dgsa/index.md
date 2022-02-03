@@ -15,13 +15,8 @@ address:
   postcode: "65197"
   country: Germany
 
-<<<<<<< HEAD
 summary: |
   Discusses main challenges and opportunities of academic education as part of life-long learning approaches for social work education and training (in German only).
-=======
-summary: Discusses main challenges and opportunities of academic education as part of life-long learning approaches for social work education and training [in German only].
->>>>>>> 128d6dc4c16e7388ce1bffaa2dfdcdfac7cbcbe9
-
 
 abstract: |
   Die vielfältigen durch Digitalisierung hervorgerufenen sozialen, ökonomischen und gesamtgesellschaftlichen Transformationen stellen die Soziale Arbeit in Profession und Ausbildung vor große Herausforderungen. Bestehende Kompetenzen bedürfen der Anpassung an neue soziale Realitäten. Dabei gilt es die akademisierte Fachkräfteausbildung nicht auf einmalige Ausbildungskonzpte im Bereich Bachelor/Master zu reduzieren, sondern die Wissensvermittlung weiter zu denken und vermehrt im Bereich der kontinuierlichen akademisierten Weiterbildung konzeptionell zu gestalten. Die Ermöglichung gesellschaftlicher Partizipation und eigenständiger Agency von Adressat_innen der Sozialen Arbeit stellt professionelle Akteur_innen vor immer neue Herausforderungen. Gleichzeitig bedürfen diese Akteure_innen einer stetig erweiterten Unterstützung in der Erweiterung der eigenen Kompetenzprofile. Die gelingende Gestaltung lebenslangen Lernens wird dadurch zu einer zentralen Aufgabe. Dieser Beitrag skizziert, wie professionelles Wissen der Sozialen Arbeit mit den Möglichkeiten digitaler Lehr- und Lernvermittlung transparent, bedarfsgerecht und von Hochschulen vermittelt und qualitative Standards in der Vermittlung zeitgemäß dokumentiert werden können. In Zeiten der Digitalisierung ist der Theorie-Praxis-Bezug einerseits gekennzeichnet von Änderung in den Theorien der Sozialen Arbeit, andererseits aber auch von stetigen Änderung in der Praxis. Entsprechend braucht es neue Bildungsangebote die einen berufsbegleitendem und familienzeitbezogenem Anspruch genauso gerecht werden wie neue Assessment- und Zertfizierungsformen in Einklang mit den Anforderungen einer sich wandelnden Dokumentationskultur. Dabei gilt es insbesondere auch die notwendige Sicherstellung qualitativer Standards in einem immer heterogener werdenden Berufs- und Angebotskontext zu berücksichtigen und in der Vermittlung und der Zertifizierung transparent vermitteln zu können.
@@ -36,11 +31,7 @@ authors: [jkr]
 tags: [social-work, digitalization, digitization, profession, teaching, life-long, learning, higher-education]
 
 # Schedule page publish date (NOT talk date)
-<<<<<<< HEAD
 publishDate: "2022-02-02T00:00:00Z"
-=======
-publishDate: "2021-10-14T00:00:00Z"
->>>>>>> 128d6dc4c16e7388ce1bffaa2dfdcdfac7cbcbe9
 
 # Is this a featured talk? (true/false)
 featured: true
