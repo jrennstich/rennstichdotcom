@@ -7,6 +7,9 @@ if (file.exists("~/.Rprofile")) {
   base::sys.source("~/.Rprofile", envir = environment())
 }
 
+# RORCID package authorization
+options(orcid_token = "9a16f44b-93ea-445f-9351-f882e84844d6")
+
 # Now set options to customize the behavior of blogdown for this project. Below
 # are a few sample options; for more options, see
 # https://bookdown.org/yihui/blogdown/global-options.html
@@ -20,4 +23,4 @@ options(
 )
 
 # fix Hugo version
-options(blogdown.hugo.version = "0.92.1")
+options(blogdown.hugo.version = "0.101.0")
