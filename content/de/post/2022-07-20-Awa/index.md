@@ -1,6 +1,6 @@
 ---
 title: Awa vom Mecklenburgischen (*29. Mai 2022)
-subtitle: Leben ohne Hund ist schund!
+subtitle: Leben ohne Hund ist schund
 summary: Ab August ist es endlich so weit - Awa vom Mecklenburgischen wird meine neue Begleiterin auf vier Pfoten.
 authors:
   - jkr
