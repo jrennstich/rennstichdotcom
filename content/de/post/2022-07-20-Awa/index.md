@@ -9,7 +9,7 @@ categories: ["dogs"]
 date: "2022-07-20T00:00:00Z"
 lastmod: "2022-07-20T00:00:00Z"
 featured: TRUE
-draft: TRUE
+draft: FALSE
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
