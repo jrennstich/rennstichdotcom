@@ -1,7 +1,7 @@
 ---
 title: "Unmaking of a digital world? Major power rivalry and global system evolution"
 event:  "5th European Conference on Technology Assessment - Digital Future(s): TA in and for a changing world"
-event_url: https://karlsruhe2022.technology-assessment.info/
+event_url: https://etac2022.in.howspace.com/home
 
 # Draft status (true/false)
 draft: false
