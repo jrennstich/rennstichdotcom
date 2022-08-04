@@ -1,7 +1,7 @@
 ---
-title: Awa vom Mecklenburgischen (*29. Mai 2022)
-subtitle: Leben ohne Hund ist schund
-summary: Ab August ist es endlich so weit - Awa vom Mecklenburgischen wird meine neue Begleiterin auf vier Pfoten.
+title: Ava vom Mecklenburgischen (*29 Mai 2022)
+subtitle: A life without a dog is possible. But utterly pointless!
+summary: Starting in August, Ava, a German pointer breed will be roaming the North-Hessian countryside with me.
 authors:
   - jkr
 tags: ["personal", "dog"]
@@ -17,7 +17,7 @@ draft: FALSE
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Awa mit 6 Wochen. Photo vom Züchter Volker Barck'
+  caption: 'Awa, 6 wks. Photo by breeder Volker Barck'
   focal_point: "Smart"
   preview_only: false
 
@@ -29,4 +29,4 @@ image:
 projects: []
 ---
 
-Endlich wieder ein Hund in meinem Leben! Ab August ist es soweit. Awa vom Mecklenburgischen, eine DK [(Deutsch-Kurzhaar)](https://www.vdh.de/rasse-des-monats/rasse-des-monats-deutsch-kurzhaar/) Hündin tritt in mein Leben und wir werden beide gemeinsam zur Hundeausbildungsschule gehen. Mal schauen, wie gut wir die ganzen Prüfungen hinbekommen werden!
+The wait is over - finally, there will be a new dog in my life again! Ava vom Mecklenburgischen, a German shorthaired pointer [(Deutsch-Kurzhaar)](https://en.wikipedia.org/wiki/German_Shorthaired_Pointer), will be joining me in Kassel starting August this year. This is the first dog I will be able to train - so that's gonna be a new and excting new learning experience for both, hound and man... Very, very excited about this, needless to say.
