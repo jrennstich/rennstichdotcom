@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   company = "Christlich-Pädagogisches Institut"
   company_url = ""
   location = "Eppingen, Germany"
-  date_start = "2012-09-01"
+  date_start = "2012-10-01"
   date_end = "2013-12-31"
   description = ""
   
