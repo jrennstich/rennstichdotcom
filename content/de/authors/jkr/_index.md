@@ -102,4 +102,4 @@ Prof. Dr. Joachim K. Rennstich ist ein Experte in den Bereichen langzeitliche Gl
 
 Außerhalb der Hochschule findet man ihn wandernd und jagend mit seiner Hündin Ava im Nordhessischen Mittelgebirge, die Welt mit seinem iPhone und seiner Fuji X-E4 fotografieren und filmen oder bei Ausstellungen und Konzerten die schönen Künste genießen.
 
-{{% staticref "de/files/cv_de.pdf" "newtab" %}}Download CV{{% /staticref %}}
+{{% staticref "files/cv_de.pdf" "newtab" %}}Download CV{{% /staticref %}}
