@@ -55,7 +55,7 @@ social:
   link: https://twitter.com/digprof
 - icon: cv
   icon_pack: ai
-  link: 'files/cv_de.pdf'
+  link: 'de/files/cv_de.pdf'
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0577-7460
@@ -86,7 +86,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
 #  icon_pack: ai
-#  link: files/cv.pdf
+#  link: de/files/cv_de.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
