@@ -3,7 +3,7 @@ title: "E-Prüfungen"
 authors:
 - jkr
 date: "2017-11-01T00:00:00Z"
-doi: ""
+doi: "10.36198/9783838548401"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

@@ -1,40 +1,47 @@
 ---
-title: "E-Prüfungen"
+title: "Das Wissen in der Zeit von Digitalisierung: Akademisierte Weiterbildung als Herausforderung an Profession und Hochschule [Paper presentation]"
 authors:
 - jkr
-date: "2017-11-01T00:00:00Z"
-doi: "10.36198/9783838548401"
+date: "2022-04-29T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "202-04-29T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In J. Gerick, A. Sommer, & G. Zimmerman (Hrsg.), *50 Prüfungsformate für die Hochschullehre. Kompetent Prüfungen gestalten* (S. 67–70). Waxmann (UTB)"
+publication: "DGSA Jahrestagung 2022, 29. - 30. April, Wiesbaden, Germany"
 publication_short: ""
 
-abstract: E-Prüfungen sind methodisch breit gefächert und finden sowohl in der onlinebasierten Lehre, als Teil von Blended-Learning-Formaten oder auch rein campusbasierten Lehrangeboten Anwendung. Lernplattformen bieten vielfältige und komplexe Gestaltungsmöglichkeiten und die Möglichkeit der Verbindung von formativen und summativen Prüfungen. Vorteile bestehen in der weitgehend automatisierten Bewertung, sowie der Möglichkeit der Einbindung von multimedialen Elementen in die Fragestellung.
+abstract: |
+  Die vielfältigen durch Digitalisierung hervorgerufenen sozialen, ökonomischen und gesamtgesellschaftlichen Transformationen stellen die Soziale Arbeit in Profession und Ausbildung vor große Herausforderungen. Die gelingende Gestaltung lebenslangen Lernens wird dadurch zu einer zentralen Aufgabe. Dieser Beitrag skizziert, wie professionelles Wissen der Sozialen Arbeit mit den Möglichkeiten digitaler Lehr- und Lernvermittlung transparent, bedarfsgerecht und von Hochschulen vermittelt und qualitative Standards in der Vermittlung zeitgemäß dokumentiert werden können.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- assessment
+- digital
 - education
-- methodology
-- teaching
-- e-learning
-- online
+- literacy
+- social-work
+- technology
+- digitization
+- digitalization
+- training
+- professional
+- life-long
+- learning
+- higher-education
 featured: false
 
 links:
- - name: Publisher Link
-   url: https://www.utb-shop.de/kompetent-prufungen-gestalten-9631.html
+# - name: Custom Link
+#  url:
 url_pdf:
 url_code: ''
 url_dataset: ''
@@ -47,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: Book cover - all rights reserved.'
+  caption: 'Image credit: '
   focal_point: ""
   preview_only: false
 
