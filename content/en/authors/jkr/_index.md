@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cvjm-hochschule.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the development of digital capitalism, digital literacy and teaching-methodologies.
+bio: My research interests include the long-term development of digital capitalism, digital literacy and innovative teaching-methodologies.
 
 interests:
 - Long-term Globalization

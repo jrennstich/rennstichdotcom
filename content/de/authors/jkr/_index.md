@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cvjm-hochschule.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mein Forschungsfokus umfasst die langzeitliche Entwicklung hin zum digitalen Kapitalismus, Digital Literacy und innovative Lehrmethoden.
+bio: Mein Forschungsfokus umfasst die langzeitliche Entwicklung hin zum digitalen Kapitalismus, Digital Literacy und innovative Lehrmethodenentwicklung und Begleitforschung.
 
 interests:
 - Langzeitliche Globalisierung
