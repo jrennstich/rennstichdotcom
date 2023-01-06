@@ -15,7 +15,8 @@ publishDate: "2022-10-08T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "M. Arnold (Ed.), *The handbook of applied teaching and learning in social work management education: Theories, methods, and practices in higher education*. Springer International."
+publication: "Rennstich, J. K. (2023). Learning hybrid by doing hybrid: Teaching critical digital skills in a safe learning space. In M. Arnold (Ed.), *The handbook of applied teaching and learning in social work management education: Theories, methods, and practices in higher education* (pp. 243–264). Springer International. https://doi.org/10.1007/978-3-031-18038-5_13"
+
 publication_short: ""
 
 abstract: |
