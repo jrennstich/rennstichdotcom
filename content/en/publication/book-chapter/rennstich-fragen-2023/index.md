@@ -2,7 +2,7 @@
 title: "Fragen zur Transformation des Sozialen und des Sozialstaates — mit welchen Auswirkungen auf Adressat:innen und Professionelle ist zu rechnen?"
 authors:
 - jkr
-date: "2022-12-01T00:00:00Z"
+date: "2023-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,14 +15,14 @@ publishDate: "2022-10-08T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "W. Hosemann & S. Barra (Hrsg.), *Soziale Arbeit digital: Von der Webseite bis zur Demokratie*. Beltz Juventa."
+publication: "Rennstich, J. (2023). Fragen zur Transformation des Sozialen und des Sozialstaates — mit welchen Auswirkungen auf Adressat:innen und Professionelle ist zu rechnen? In: W. Hosemann & S. Barra (Hrsg.), *Soziale Arbeit digital: Von der Webseite bis zur Demokratie*. Beltz Juventa."
 publication_short: ""
 
 abstract: |
   Die Bedeutung der Digitalisierung für die Soziale Arbeit ist mittlerweile ein fest verankertes Thema in der wissenschaftlichen Forschung in Deutschland. In der internationalen Literatur hat diese Diskussion schon länger an Bedeutung gewonnen, da hier im Gegensatz zu der Situation in Deutschland Digitalisierung als gesamtgesellschaftlich transformatorischer Prozess schon länger eine auf vielen Ebenen spür- und erfahrbare Wirkmacht entfaltet hat. Nicht zuletzt durch die Erfahrungen der Corona-Pandemie auf alle gesamtgesellschaftlichen Bereiche, aber eben insbesondere auch auf die vielfältigen Arbeitsbereiche der Sozialen Arbeit ist die Bedeutung von Digitalisierung und der damit ermöglichten – oder auch erzwungenen – realen Digitalität als Lebensbezug und Lebenswelt für Adressat:innen und Professionelle in der Sozialen Arbeit unmittelbar erlebbar geworden. In diesem Beitrag möchte ich stärker auf die systemischen Hintergründe in der für diese Entwicklung eingehen und die Konsequenzen, welche diese Transformation insbesondere für das Wohlfahrtsstaatssystem in Deutschland hat. Dazu richtet der Beitrag zunächst sein Augenmerk auf die Besonderheiten der Entwicklung eines globalen digitalen Kapitalismus betrachtet. Im Weiteren werden dann diese Entwicklungen hinsichtlich ihrer Auswirkungen auf die gesellschaftlichen Strukturen in Deutschland bezogen beleuchtet. Im Anschluss daran werden die damit verbundenen Herausforderungen für Adressat:innen einerseits, und Professionelle der Sozialen Arbeit andererseits diskutiert. Der Beitrag endet mit einem kurzen Fazit und einem Plädoyer für eine stärkere Förderung der notwendigen digitalen Kompetenzerweiterungen in Aus- und Weiterbildung der professionell in der Sozialen Arbeit Tätigen um eine gerechte Teilhabe der Adressat:innen zu ermöglichen und die eigene Wirkmächtigkeit zu erhalten.
 
 # Summary. An optional shortened abstract.
-summary: "Diskutiert kritisch die Entwicklung eines digitalen Kapitalismus und dessen Auswirkungen auf den deutschen Sozialstaat. Ein besonderer Fokus liegt dabei auf Adressat:innen und Sozialarbeiter:innen."
+summary: Takes a critical look at the impact of digitalization on the development of capitalism and its implications for the German social welfare state and its main stakeholders.
 
 tags: [digital, capitalism, welfare-state, technologies, trust, digitality]
 
