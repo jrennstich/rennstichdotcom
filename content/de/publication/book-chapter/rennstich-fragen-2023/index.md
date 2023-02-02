@@ -15,7 +15,7 @@ publishDate: "2022-10-08T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Rennstich, J. (2023). Fragen zur Transformation des Sozialen und des Sozialstaates — mit welchen Auswirkungen auf Adressat:innen und Professionelle ist zu rechnen?. In: W. Hosemann & S. Barra (Hrsg.), *Soziale Arbeit digital: Von der Webseite bis zur Demokratie*. Beltz Juventa."
+publication: "Rennstich, J. (2023). Fragen zur Transformation des Sozialen und des Sozialstaates — mit welchen Auswirkungen auf Adressat:innen und Professionelle ist zu rechnen?. In: W. Hosemann & S. Barra (Hrsg.), *Soziale Arbeit digital: Von der Webseite bis zur Demokratie* (S. 51-63). Beltz Juventa."
 publication_short: ""
 
 abstract: |
