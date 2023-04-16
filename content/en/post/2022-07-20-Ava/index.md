@@ -1,5 +1,5 @@
 ---
-title: Ava vom Mecklenburgischen (*29 Mai 2022)
+title: Ava vom Mecklenburgischen (*29 May 2022)
 subtitle: A life without a dog is possible. But utterly pointless!
 summary: Starting in August, Ava, a German pointer breed will be roaming the North-Hessian countryside with me.
 authors:
