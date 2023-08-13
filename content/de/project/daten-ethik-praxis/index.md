@@ -1,8 +1,9 @@
 ---
-title: Daten-Ethik-Praxis (Lehrbuchprojekt mit Vera Taube)
+title: Daten-Ethik-Praxis (Lehrbuchprojekt)
 summary: Lehrbuch mit zusätzlichen interaktiven digital/blended-learning Lerneinheiten zur Integration in gängige Lern-Management Systeme (LMS).
 date: "2020-06-15T00:00:00Z"
-
+authors:
+  - jkr
 # Optional external URL for project (replaces project detail page). Just type `external_link` in the text.
 external_link: 
 

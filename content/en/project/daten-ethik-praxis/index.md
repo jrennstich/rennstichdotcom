@@ -1,6 +1,6 @@
 ---
 title: Daten-Ethik-Praxis (book project)
-summary: Textbook coauthored with Vera Taube with additional interactive digital/blended-learning units for integration into learning management systems (LMS).
+summary: Textbook with additional interactive digital/blended-learning units for integration into learning management systems (LMS).
 date: "2020-06-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page). Just type `external_link` in the text.
@@ -35,7 +35,7 @@ url_video: ""
 
 ## Textbook Project
 
-Now under contract with Budrich and to be published as an utb M textbook, *Daten-Ethik-Praxis: Data-Literacy für die berufliche Praxis* is a digital-literacy textbook coauthored with Vera Taube focusing on social aspects of data-literacy. 
+Now under contract with Budrich and to be published as an utb M textbook, *Daten-Ethik-Praxis: Data-Literacy für die berufliche Praxis* is a digital-literacy textbook focusing on social aspects of data-literacy. 
 
 The textbook facilitates a case-based approach with interactive digital/blended-learning units for integration into learning management systems (LMS). Based on case-vignettes connecting the covered theoretical material to realistic scenarios found in varied workplace and educational settings, the book helps learners to gain and assess their mastery of critical ethical digital and data literacy competences. Instructors benefit from the availability of regularly updated study-material that can easily be imported into any LMS such as Moodle, Canvas, or ILIAS. The book also specifically targets lecturers who are not necessarily experts in questions of digital competencies and data-literacy who want to combine their expert domain knowledge with the basic data-literacy and digital competencies education covered in the textbook.
 
